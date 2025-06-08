@@ -10619,4 +10619,6305 @@ export const data = [
     availability_in_mt_: "33454.86",
     id: 1180,
   },
+  {
+    "_year": "2018-2019",
+    "month": "May",
+    "product": "Urea",
+    "state": "Punjab",
+    "requirement_in_mt_": "682.36",
+    "availability_in_mt_": "2426.74",
+    "id": 1181
+  },
+  {
+    "_year": "2016-2017",
+    "month": "July",
+    "product": "MAP",
+    "state": "Haryana",
+    "requirement_in_mt_": "4031.33",
+    "availability_in_mt_": "2598.19",
+    "id": 1182
+  },
+  {
+    "_year": "2015-2016",
+    "month": "January",
+    "product": "MAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "6043.69",
+    "availability_in_mt_": "6308.73",
+    "id": 1183
+  },
+  {
+    "_year": "2015-2016",
+    "month": "March",
+    "product": "MAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "1477.26",
+    "availability_in_mt_": "715.75",
+    "id": 1184
+  },
+  {
+    "_year": "2015-2016",
+    "month": "March",
+    "product": "SSP",
+    "state": "Bihar",
+    "requirement_in_mt_": "834.97",
+    "availability_in_mt_": "8771.96",
+    "id": 1185
+  },
+  {
+    "_year": "2019-2020",
+    "month": "October",
+    "product": "MAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "2189.20",
+    "availability_in_mt_": "3675.40",
+    "id": 1186
+  },
+  {
+    "_year": "2017-2018",
+    "month": "October",
+    "product": "Urea",
+    "state": "West Bengal",
+    "requirement_in_mt_": "808.59",
+    "availability_in_mt_": "9846.99",
+    "id": 1187
+  },
+  {
+    "_year": "2018-2019",
+    "month": "July",
+    "product": "DAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "762.81",
+    "availability_in_mt_": "6782.52",
+    "id": 1188
+  },
+  {
+    "_year": "2019-2020",
+    "month": "May",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1725.35",
+    "availability_in_mt_": "6337.70",
+    "id": 1189
+  },
+  {
+    "_year": "2017-2018",
+    "month": "July",
+    "product": "SSP",
+    "state": "Haryana",
+    "requirement_in_mt_": "5082.15",
+    "availability_in_mt_": "9498.49",
+    "id": 1190
+  },
+  {
+    "_year": "2015-2016",
+    "month": "August",
+    "product": "MAP",
+    "state": "Punjab",
+    "requirement_in_mt_": "694.70",
+    "availability_in_mt_": "3556.87",
+    "id": 1191
+  },
+  {
+    "_year": "2017-2018",
+    "month": "February",
+    "product": "DAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "2776.78",
+    "availability_in_mt_": "556.06",
+    "id": 1192
+  },
+  {
+    "_year": "2018-2019",
+    "month": "June",
+    "product": "SSP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "955.94",
+    "availability_in_mt_": "4633.89",
+    "id": 1193
+  },
+  {
+    "_year": "2016-2017",
+    "month": "May",
+    "product": "SSP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "3129.54",
+    "availability_in_mt_": "3192.08",
+    "id": 1194
+  },
+  {
+    "_year": "2016-2017",
+    "month": "August",
+    "product": "MAP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "3737.45",
+    "availability_in_mt_": "7612.47",
+    "id": 1195
+  },
+  {
+    "_year": "2018-2019",
+    "month": "January",
+    "product": "MAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "950.37",
+    "availability_in_mt_": "3275.78",
+    "id": 1196
+  },
+  {
+    "_year": "2018-2019",
+    "month": "February",
+    "product": "DAP",
+    "state": "Punjab",
+    "requirement_in_mt_": "1805.47",
+    "availability_in_mt_": "493.52",
+    "id": 1197
+  },
+  {
+    "_year": "2015-2016",
+    "month": "May",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4183.10",
+    "availability_in_mt_": "8581.69",
+    "id": 1198
+  },
+  {
+    "_year": "2015-2016",
+    "month": "November",
+    "product": "Urea",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "3437.97",
+    "availability_in_mt_": "115.20",
+    "id": 1199
+  },
+  {
+    "_year": "2015-2016",
+    "month": "January",
+    "product": "DAP",
+    "state": "Haryana",
+    "requirement_in_mt_": "1499.50",
+    "availability_in_mt_": "4511.24",
+    "id": 1200
+  },
+  {
+    "_year": "2018-2019",
+    "month": "September",
+    "product": "SSP",
+    "state": "Haryana",
+    "requirement_in_mt_": "6306.86",
+    "availability_in_mt_": "1274.81",
+    "id": 1201
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5343.27",
+    "availability_in_mt_": "2032.43",
+    "id": 1202
+  },
+  {
+    "_year": "2017-2018",
+    "month": "October",
+    "product": "MOP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "5227.79",
+    "availability_in_mt_": "3700.32",
+    "id": 1203
+  },
+  {
+    "_year": "2019-2020",
+    "month": "May",
+    "product": "SSP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "3568.55",
+    "availability_in_mt_": "5230.49",
+    "id": 1204
+  },
+  {
+    "_year": "2017-2018",
+    "month": "August",
+    "product": "Urea",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "4412.72",
+    "availability_in_mt_": "3460.68",
+    "id": 1205
+  },
+  {
+    "_year": "2015-2016",
+    "month": "October",
+    "product": "DAP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "8852.69",
+    "availability_in_mt_": "5818.19",
+    "id": 1206
+  },
+  {
+    "_year": "2015-2016",
+    "month": "February",
+    "product": "MAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "733.46",
+    "availability_in_mt_": "9624.12",
+    "id": 1207
+  },
+  {
+    "_year": "2017-2018",
+    "month": "August",
+    "product": "DAP",
+    "state": "Haryana",
+    "requirement_in_mt_": "3504.47",
+    "availability_in_mt_": "3066.89",
+    "id": 1208
+  },
+  {
+    "_year": "2019-2020",
+    "month": "April",
+    "product": "SSP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "1757.19",
+    "availability_in_mt_": "6697.34",
+    "id": 1209
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "15.74",
+    "availability_in_mt_": "9779.03",
+    "id": 1210
+  },
+  {
+    "_year": "2018-2019",
+    "month": "December",
+    "product": "MAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "8267.92",
+    "availability_in_mt_": "2198.71",
+    "id": 1211
+  },
+  {
+    "_year": "2018-2019",
+    "month": "April",
+    "product": "MAP",
+    "state": "Punjab",
+    "requirement_in_mt_": "3267.28",
+    "availability_in_mt_": "9697.16",
+    "id": 1212
+  },
+  {
+    "_year": "2017-2018",
+    "month": "February",
+    "product": "Urea",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "6088.50",
+    "availability_in_mt_": "3016.64",
+    "id": 1213
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "MOP",
+    "state": "Bihar",
+    "requirement_in_mt_": "873.53",
+    "availability_in_mt_": "5341.18",
+    "id": 1214
+  },
+  {
+    "_year": "2019-2020",
+    "month": "July",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1627.87",
+    "availability_in_mt_": "6734.28",
+    "id": 1215
+  },
+  {
+    "_year": "2018-2019",
+    "month": "June",
+    "product": "Urea",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "1099.47",
+    "availability_in_mt_": "9500.79",
+    "id": 1216
+  },
+  {
+    "_year": "2018-2019",
+    "month": "November",
+    "product": "DAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "9305.81",
+    "availability_in_mt_": "8116.27",
+    "id": 1217
+  },
+  {
+    "_year": "2018-2019",
+    "month": "March",
+    "product": "MOP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "289.86",
+    "availability_in_mt_": "9719.76",
+    "id": 1218
+  },
+  {
+    "_year": "2019-2020",
+    "month": "December",
+    "product": "SSP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "8413.26",
+    "availability_in_mt_": "2967.67",
+    "id": 1219
+  },
+  {
+    "_year": "2019-2020",
+    "month": "September",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5985.42",
+    "availability_in_mt_": "5742.00",
+    "id": 1220
+  },
+  {
+    "_year": "2015-2016",
+    "month": "April",
+    "product": "SSP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "3901.52",
+    "availability_in_mt_": "5625.50",
+    "id": 1221
+  },
+  {
+    "_year": "2019-2020",
+    "month": "November",
+    "product": "MAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "5381.66",
+    "availability_in_mt_": "6428.72",
+    "id": 1222
+  },
+  {
+    "_year": "2016-2017",
+    "month": "December",
+    "product": "DAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "2823.43",
+    "availability_in_mt_": "7216.16",
+    "id": 1223
+  },
+  {
+    "_year": "2016-2017",
+    "month": "August",
+    "product": "MAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "9366.32",
+    "availability_in_mt_": "5557.91",
+    "id": 1224
+  },
+  {
+    "_year": "2019-2020",
+    "month": "August",
+    "product": "MAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "4385.29",
+    "availability_in_mt_": "1183.69",
+    "id": 1225
+  },
+  {
+    "_year": "2019-2020",
+    "month": "August",
+    "product": "DAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "4087.15",
+    "availability_in_mt_": "3666.08",
+    "id": 1226
+  },
+  {
+    "_year": "2019-2020",
+    "month": "June",
+    "product": "MAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "7565.91",
+    "availability_in_mt_": "1299.21",
+    "id": 1227
+  },
+  {
+    "_year": "2015-2016",
+    "month": "January",
+    "product": "SSP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "1112.87",
+    "availability_in_mt_": "9910.94",
+    "id": 1228
+  },
+  {
+    "_year": "2017-2018",
+    "month": "December",
+    "product": "MOP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "8508.08",
+    "availability_in_mt_": "4635.12",
+    "id": 1229
+  },
+  {
+    "_year": "2017-2018",
+    "month": "July",
+    "product": "Urea",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "5323.23",
+    "availability_in_mt_": "1935.95",
+    "id": 1230
+  },
+  {
+    "_year": "2018-2019",
+    "month": "May",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9480.21",
+    "availability_in_mt_": "3512.19",
+    "id": 1231
+  },
+  {
+    "_year": "2017-2018",
+    "month": "July",
+    "product": "MAP",
+    "state": "Punjab",
+    "requirement_in_mt_": "2263.14",
+    "availability_in_mt_": "4008.10",
+    "id": 1232
+  },
+  {
+    "_year": "2017-2018",
+    "month": "August",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5980.34",
+    "availability_in_mt_": "4513.16",
+    "id": 1233
+  },
+  {
+    "_year": "2016-2017",
+    "month": "January",
+    "product": "MOP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "5366.84",
+    "availability_in_mt_": "3713.88",
+    "id": 1234
+  },
+  {
+    "_year": "2018-2019",
+    "month": "May",
+    "product": "SSP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "3709.36",
+    "availability_in_mt_": "3140.50",
+    "id": 1235
+  },
+  {
+    "_year": "2017-2018",
+    "month": "October",
+    "product": "MAP",
+    "state": "Haryana",
+    "requirement_in_mt_": "7111.42",
+    "availability_in_mt_": "4043.93",
+    "id": 1236
+  },
+  {
+    "_year": "2018-2019",
+    "month": "July",
+    "product": "SSP",
+    "state": "Bihar",
+    "requirement_in_mt_": "7489.52",
+    "availability_in_mt_": "2545.83",
+    "id": 1237
+  },
+  {
+    "_year": "2015-2016",
+    "month": "April",
+    "product": "MOP",
+    "state": "Bihar",
+    "requirement_in_mt_": "2774.74",
+    "availability_in_mt_": "5719.21",
+    "id": 1238
+  },
+  {
+    "_year": "2015-2016",
+    "month": "June",
+    "product": "DAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "791.79",
+    "availability_in_mt_": "1133.89",
+    "id": 1239
+  },
+  {
+    "_year": "2015-2016",
+    "month": "December",
+    "product": "SSP",
+    "state": "Haryana",
+    "requirement_in_mt_": "3741.82",
+    "availability_in_mt_": "1885.68",
+    "id": 1240
+  },
+  {
+    "_year": "2019-2020",
+    "month": "August",
+    "product": "DAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "8111.68",
+    "availability_in_mt_": "2209.15",
+    "id": 1241
+  },
+  {
+    "_year": "2015-2016",
+    "month": "January",
+    "product": "SSP",
+    "state": "Punjab",
+    "requirement_in_mt_": "7626.86",
+    "availability_in_mt_": "4282.08",
+    "id": 1242
+  },
+  {
+    "_year": "2017-2018",
+    "month": "March",
+    "product": "MAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "1550.28",
+    "availability_in_mt_": "1473.41",
+    "id": 1243
+  },
+  {
+    "_year": "2016-2017",
+    "month": "June",
+    "product": "MAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "5488.32",
+    "availability_in_mt_": "304.38",
+    "id": 1244
+  },
+  {
+    "_year": "2016-2017",
+    "month": "May",
+    "product": "MOP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "4375.84",
+    "availability_in_mt_": "295.77",
+    "id": 1245
+  },
+  {
+    "_year": "2019-2020",
+    "month": "February",
+    "product": "MAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "3602.00",
+    "availability_in_mt_": "2991.75",
+    "id": 1246
+  },
+  {
+    "_year": "2018-2019",
+    "month": "April",
+    "product": "Urea",
+    "state": "Gujarat",
+    "requirement_in_mt_": "811.93",
+    "availability_in_mt_": "5981.33",
+    "id": 1247
+  },
+  {
+    "_year": "2016-2017",
+    "month": "October",
+    "product": "MAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "1668.38",
+    "availability_in_mt_": "7862.80",
+    "id": 1248
+  },
+  {
+    "_year": "2016-2017",
+    "month": "August",
+    "product": "MAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "7314.65",
+    "availability_in_mt_": "1661.68",
+    "id": 1249
+  },
+  {
+    "_year": "2015-2016",
+    "month": "September",
+    "product": "DAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "6118.87",
+    "availability_in_mt_": "254.17",
+    "id": 1250
+  },
+  {
+    "_year": "2015-2016",
+    "month": "March",
+    "product": "MAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "5642.53",
+    "availability_in_mt_": "4576.76",
+    "id": 1251
+  },
+  {
+    "_year": "2015-2016",
+    "month": "May",
+    "product": "Urea",
+    "state": "Punjab",
+    "requirement_in_mt_": "4943.36",
+    "availability_in_mt_": "3016.38",
+    "id": 1252
+  },
+  {
+    "_year": "2019-2020",
+    "month": "August",
+    "product": "Urea",
+    "state": "Gujarat",
+    "requirement_in_mt_": "1.64",
+    "availability_in_mt_": "6540.14",
+    "id": 1253
+  },
+  {
+    "_year": "2018-2019",
+    "month": "February",
+    "product": "DAP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "2365.86",
+    "availability_in_mt_": "8926.27",
+    "id": 1254
+  },
+  {
+    "_year": "2017-2018",
+    "month": "April",
+    "product": "DAP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "126.11",
+    "availability_in_mt_": "6384.35",
+    "id": 1255
+  },
+  {
+    "_year": "2017-2018",
+    "month": "September",
+    "product": "MAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "6143.76",
+    "availability_in_mt_": "4369.97",
+    "id": 1256
+  },
+  {
+    "_year": "2019-2020",
+    "month": "February",
+    "product": "DAP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "1281.50",
+    "availability_in_mt_": "7439.29",
+    "id": 1257
+  },
+  {
+    "_year": "2018-2019",
+    "month": "October",
+    "product": "MAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "2303.97",
+    "availability_in_mt_": "9075.64",
+    "id": 1258
+  },
+  {
+    "_year": "2015-2016",
+    "month": "July",
+    "product": "MOP",
+    "state": "Punjab",
+    "requirement_in_mt_": "2427.93",
+    "availability_in_mt_": "3608.02",
+    "id": 1259
+  },
+  {
+    "_year": "2019-2020",
+    "month": "July",
+    "product": "DAP",
+    "state": "Punjab",
+    "requirement_in_mt_": "7874.31",
+    "availability_in_mt_": "572.25",
+    "id": 1260
+  },
+  {
+    "_year": "2017-2018",
+    "month": "November",
+    "product": "Urea",
+    "state": "Bihar",
+    "requirement_in_mt_": "7487.52",
+    "availability_in_mt_": "1750.85",
+    "id": 1261
+  },
+  {
+    "_year": "2018-2019",
+    "month": "March",
+    "product": "SSP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "1560.91",
+    "availability_in_mt_": "9085.63",
+    "id": 1262
+  },
+  {
+    "_year": "2017-2018",
+    "month": "February",
+    "product": "MOP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "820.60",
+    "availability_in_mt_": "6623.59",
+    "id": 1263
+  },
+  {
+    "_year": "2019-2020",
+    "month": "June",
+    "product": "Urea",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "4337.52",
+    "availability_in_mt_": "4062.52",
+    "id": 1264
+  },
+  {
+    "_year": "2017-2018",
+    "month": "June",
+    "product": "SSP",
+    "state": "Haryana",
+    "requirement_in_mt_": "4995.16",
+    "availability_in_mt_": "1394.26",
+    "id": 1265
+  },
+  {
+    "_year": "2019-2020",
+    "month": "December",
+    "product": "SSP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "5909.67",
+    "availability_in_mt_": "8873.16",
+    "id": 1266
+  },
+  {
+    "_year": "2016-2017",
+    "month": "October",
+    "product": "DAP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "6564.02",
+    "availability_in_mt_": "6602.95",
+    "id": 1267
+  },
+  {
+    "_year": "2016-2017",
+    "month": "August",
+    "product": "Urea",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "3764.85",
+    "availability_in_mt_": "9459.52",
+    "id": 1268
+  },
+  {
+    "_year": "2016-2017",
+    "month": "August",
+    "product": "MOP",
+    "state": "Bihar",
+    "requirement_in_mt_": "8414.80",
+    "availability_in_mt_": "8903.07",
+    "id": 1269
+  },
+  {
+    "_year": "2018-2019",
+    "month": "June",
+    "product": "Urea",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "7904.92",
+    "availability_in_mt_": "4767.70",
+    "id": 1270
+  },
+  {
+    "_year": "2015-2016",
+    "month": "January",
+    "product": "SSP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "7360.78",
+    "availability_in_mt_": "1199.19",
+    "id": 1271
+  },
+  {
+    "_year": "2017-2018",
+    "month": "June",
+    "product": "DAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "3123.68",
+    "availability_in_mt_": "9947.43",
+    "id": 1272
+  },
+  {
+    "_year": "2017-2018",
+    "month": "November",
+    "product": "SSP",
+    "state": "Punjab",
+    "requirement_in_mt_": "6924.10",
+    "availability_in_mt_": "4002.91",
+    "id": 1273
+  },
+  {
+    "_year": "2015-2016",
+    "month": "January",
+    "product": "SSP",
+    "state": "Bihar",
+    "requirement_in_mt_": "7555.72",
+    "availability_in_mt_": "9554.21",
+    "id": 1274
+  },
+  {
+    "_year": "2017-2018",
+    "month": "July",
+    "product": "MOP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "4701.76",
+    "availability_in_mt_": "5412.02",
+    "id": 1275
+  },
+  {
+    "_year": "2019-2020",
+    "month": "April",
+    "product": "SSP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "518.62",
+    "availability_in_mt_": "9884.54",
+    "id": 1276
+  },
+  {
+    "_year": "2019-2020",
+    "month": "November",
+    "product": "MAP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "9198.31",
+    "availability_in_mt_": "8769.87",
+    "id": 1277
+  },
+  {
+    "_year": "2017-2018",
+    "month": "May",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4515.88",
+    "availability_in_mt_": "2856.73",
+    "id": 1278
+  },
+  {
+    "_year": "2017-2018",
+    "month": "April",
+    "product": "Urea",
+    "state": "West Bengal",
+    "requirement_in_mt_": "4517.51",
+    "availability_in_mt_": "2160.92",
+    "id": 1279
+  },
+  {
+    "_year": "2018-2019",
+    "month": "March",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7733.71",
+    "availability_in_mt_": "8772.87",
+    "id": 1280
+  },
+  {
+    "_year": "2015-2016",
+    "month": "September",
+    "product": "MOP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "2318.54",
+    "availability_in_mt_": "3751.69",
+    "id": 1281
+  },
+  {
+    "_year": "2016-2017",
+    "month": "May",
+    "product": "SSP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "3633.67",
+    "availability_in_mt_": "6458.88",
+    "id": 1282
+  },
+  {
+    "_year": "2016-2017",
+    "month": "January",
+    "product": "SSP",
+    "state": "Bihar",
+    "requirement_in_mt_": "9125.42",
+    "availability_in_mt_": "4234.34",
+    "id": 1283
+  },
+  {
+    "_year": "2017-2018",
+    "month": "September",
+    "product": "DAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "9699.52",
+    "availability_in_mt_": "9743.93",
+    "id": 1284
+  },
+  {
+    "_year": "2015-2016",
+    "month": "May",
+    "product": "MAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "5700.76",
+    "availability_in_mt_": "7182.55",
+    "id": 1285
+  },
+  {
+    "_year": "2015-2016",
+    "month": "January",
+    "product": "SSP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "1847.45",
+    "availability_in_mt_": "2102.01",
+    "id": 1286
+  },
+  {
+    "_year": "2016-2017",
+    "month": "February",
+    "product": "Urea",
+    "state": "Gujarat",
+    "requirement_in_mt_": "5514.33",
+    "availability_in_mt_": "6546.75",
+    "id": 1287
+  },
+  {
+    "_year": "2016-2017",
+    "month": "June",
+    "product": "MOP",
+    "state": "Punjab",
+    "requirement_in_mt_": "3315.88",
+    "availability_in_mt_": "1417.12",
+    "id": 1288
+  },
+  {
+    "_year": "2019-2020",
+    "month": "November",
+    "product": "MAP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "6148.43",
+    "availability_in_mt_": "485.04",
+    "id": 1289
+  },
+  {
+    "_year": "2016-2017",
+    "month": "April",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7356.76",
+    "availability_in_mt_": "7956.65",
+    "id": 1290
+  },
+  {
+    "_year": "2015-2016",
+    "month": "October",
+    "product": "Urea",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "4218.66",
+    "availability_in_mt_": "5992.63",
+    "id": 1291
+  },
+  {
+    "_year": "2018-2019",
+    "month": "April",
+    "product": "MOP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "7587.72",
+    "availability_in_mt_": "703.10",
+    "id": 1292
+  },
+  {
+    "_year": "2019-2020",
+    "month": "May",
+    "product": "SSP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "7711.54",
+    "availability_in_mt_": "5575.86",
+    "id": 1293
+  },
+  {
+    "_year": "2016-2017",
+    "month": "February",
+    "product": "SSP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "5322.34",
+    "availability_in_mt_": "4541.06",
+    "id": 1294
+  },
+  {
+    "_year": "2017-2018",
+    "month": "March",
+    "product": "SSP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "8627.76",
+    "availability_in_mt_": "6645.99",
+    "id": 1295
+  },
+  {
+    "_year": "2016-2017",
+    "month": "January",
+    "product": "Urea",
+    "state": "Bihar",
+    "requirement_in_mt_": "2377.79",
+    "availability_in_mt_": "4260.61",
+    "id": 1296
+  },
+  {
+    "_year": "2016-2017",
+    "month": "January",
+    "product": "Urea",
+    "state": "Punjab",
+    "requirement_in_mt_": "7851.74",
+    "availability_in_mt_": "1766.27",
+    "id": 1297
+  },
+  {
+    "_year": "2015-2016",
+    "month": "August",
+    "product": "DAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "6037.65",
+    "availability_in_mt_": "4884.73",
+    "id": 1298
+  },
+  {
+    "_year": "2016-2017",
+    "month": "February",
+    "product": "MAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "990.18",
+    "availability_in_mt_": "9770.08",
+    "id": 1299
+  },
+  {
+    "_year": "2018-2019",
+    "month": "February",
+    "product": "Urea",
+    "state": "Haryana",
+    "requirement_in_mt_": "2289.55",
+    "availability_in_mt_": "1929.28",
+    "id": 1300
+  },
+  {
+    "_year": "2016-2017",
+    "month": "March",
+    "product": "DAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "5433.13",
+    "availability_in_mt_": "1081.44",
+    "id": 1301
+  },
+  {
+    "_year": "2017-2018",
+    "month": "October",
+    "product": "MAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "804.15",
+    "availability_in_mt_": "5416.79",
+    "id": 1302
+  },
+  {
+    "_year": "2018-2019",
+    "month": "January",
+    "product": "MOP",
+    "state": "Bihar",
+    "requirement_in_mt_": "784.19",
+    "availability_in_mt_": "8218.20",
+    "id": 1303
+  },
+  {
+    "_year": "2019-2020",
+    "month": "February",
+    "product": "MAP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "9802.71",
+    "availability_in_mt_": "2984.78",
+    "id": 1304
+  },
+  {
+    "_year": "2015-2016",
+    "month": "December",
+    "product": "Urea",
+    "state": "Haryana",
+    "requirement_in_mt_": "5193.11",
+    "availability_in_mt_": "4729.14",
+    "id": 1305
+  },
+  {
+    "_year": "2016-2017",
+    "month": "May",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "988.69",
+    "availability_in_mt_": "4917.38",
+    "id": 1306
+  },
+  {
+    "_year": "2019-2020",
+    "month": "February",
+    "product": "DAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "3953.64",
+    "availability_in_mt_": "1793.04",
+    "id": 1307
+  },
+  {
+    "_year": "2018-2019",
+    "month": "February",
+    "product": "SSP",
+    "state": "Punjab",
+    "requirement_in_mt_": "5907.20",
+    "availability_in_mt_": "2645.40",
+    "id": 1308
+  },
+  {
+    "_year": "2015-2016",
+    "month": "May",
+    "product": "DAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "6666.25",
+    "availability_in_mt_": "5914.71",
+    "id": 1309
+  },
+  {
+    "_year": "2018-2019",
+    "month": "January",
+    "product": "Urea",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "3664.54",
+    "availability_in_mt_": "130.24",
+    "id": 1310
+  },
+  {
+    "_year": "2019-2020",
+    "month": "July",
+    "product": "Urea",
+    "state": "Karnataka",
+    "requirement_in_mt_": "182.30",
+    "availability_in_mt_": "4215.28",
+    "id": 1311
+  },
+  {
+    "_year": "2016-2017",
+    "month": "July",
+    "product": "DAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "8923.23",
+    "availability_in_mt_": "353.83",
+    "id": 1312
+  },
+  {
+    "_year": "2016-2017",
+    "month": "October",
+    "product": "SSP",
+    "state": "Punjab",
+    "requirement_in_mt_": "3414.29",
+    "availability_in_mt_": "481.05",
+    "id": 1313
+  },
+  {
+    "_year": "2015-2016",
+    "month": "November",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3651.60",
+    "availability_in_mt_": "7698.42",
+    "id": 1314
+  },
+  {
+    "_year": "2019-2020",
+    "month": "June",
+    "product": "SSP",
+    "state": "Punjab",
+    "requirement_in_mt_": "6750.41",
+    "availability_in_mt_": "1991.98",
+    "id": 1315
+  },
+  {
+    "_year": "2016-2017",
+    "month": "February",
+    "product": "DAP",
+    "state": "Haryana",
+    "requirement_in_mt_": "6533.45",
+    "availability_in_mt_": "7555.44",
+    "id": 1316
+  },
+  {
+    "_year": "2019-2020",
+    "month": "March",
+    "product": "SSP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "7920.05",
+    "availability_in_mt_": "7280.44",
+    "id": 1317
+  },
+  {
+    "_year": "2015-2016",
+    "month": "February",
+    "product": "Urea",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "1043.72",
+    "availability_in_mt_": "9594.32",
+    "id": 1318
+  },
+  {
+    "_year": "2018-2019",
+    "month": "July",
+    "product": "Urea",
+    "state": "Gujarat",
+    "requirement_in_mt_": "6283.46",
+    "availability_in_mt_": "7872.78",
+    "id": 1319
+  },
+  {
+    "_year": "2018-2019",
+    "month": "February",
+    "product": "SSP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "9116.50",
+    "availability_in_mt_": "4416.47",
+    "id": 1320
+  },
+  {
+    "_year": "2015-2016",
+    "month": "February",
+    "product": "MOP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "6666.58",
+    "availability_in_mt_": "7767.92",
+    "id": 1321
+  },
+  {
+    "_year": "2016-2017",
+    "month": "December",
+    "product": "MAP",
+    "state": "Punjab",
+    "requirement_in_mt_": "2157.47",
+    "availability_in_mt_": "3326.56",
+    "id": 1322
+  },
+  {
+    "_year": "2015-2016",
+    "month": "June",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1924.20",
+    "availability_in_mt_": "992.49",
+    "id": 1323
+  },
+  {
+    "_year": "2017-2018",
+    "month": "May",
+    "product": "MAP",
+    "state": "Haryana",
+    "requirement_in_mt_": "9906.96",
+    "availability_in_mt_": "6866.37",
+    "id": 1324
+  },
+  {
+    "_year": "2018-2019",
+    "month": "April",
+    "product": "Urea",
+    "state": "Bihar",
+    "requirement_in_mt_": "853.27",
+    "availability_in_mt_": "4277.02",
+    "id": 1325
+  },
+  {
+    "_year": "2015-2016",
+    "month": "November",
+    "product": "MOP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "9447.38",
+    "availability_in_mt_": "1088.25",
+    "id": 1326
+  },
+  {
+    "_year": "2017-2018",
+    "month": "January",
+    "product": "DAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "3338.51",
+    "availability_in_mt_": "4559.74",
+    "id": 1327
+  },
+  {
+    "_year": "2017-2018",
+    "month": "May",
+    "product": "Urea",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "4895.53",
+    "availability_in_mt_": "6309.56",
+    "id": 1328
+  },
+  {
+    "_year": "2018-2019",
+    "month": "December",
+    "product": "MAP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "1909.86",
+    "availability_in_mt_": "6975.64",
+    "id": 1329
+  },
+  {
+    "_year": "2015-2016",
+    "month": "April",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5232.44",
+    "availability_in_mt_": "4865.03",
+    "id": 1330
+  },
+  {
+    "_year": "2017-2018",
+    "month": "July",
+    "product": "MOP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "4046.85",
+    "availability_in_mt_": "4985.41",
+    "id": 1331
+  },
+  {
+    "_year": "2016-2017",
+    "month": "July",
+    "product": "Urea",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "7731.67",
+    "availability_in_mt_": "1555.80",
+    "id": 1332
+  },
+  {
+    "_year": "2016-2017",
+    "month": "February",
+    "product": "MAP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "1271.58",
+    "availability_in_mt_": "6614.58",
+    "id": 1333
+  },
+  {
+    "_year": "2016-2017",
+    "month": "June",
+    "product": "Urea",
+    "state": "Haryana",
+    "requirement_in_mt_": "4553.25",
+    "availability_in_mt_": "8185.65",
+    "id": 1334
+  },
+  {
+    "_year": "2016-2017",
+    "month": "June",
+    "product": "Urea",
+    "state": "Punjab",
+    "requirement_in_mt_": "4205.65",
+    "availability_in_mt_": "3145.23",
+    "id": 1335
+  },
+  {
+    "_year": "2018-2019",
+    "month": "May",
+    "product": "SSP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "749.90",
+    "availability_in_mt_": "6749.49",
+    "id": 1336
+  },
+  {
+    "_year": "2015-2016",
+    "month": "December",
+    "product": "SSP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "3214.34",
+    "availability_in_mt_": "7990.64",
+    "id": 1337
+  },
+  {
+    "_year": "2015-2016",
+    "month": "September",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3852.20",
+    "availability_in_mt_": "9698.22",
+    "id": 1338
+  },
+  {
+    "_year": "2015-2016",
+    "month": "June",
+    "product": "SSP",
+    "state": "Haryana",
+    "requirement_in_mt_": "45.88",
+    "availability_in_mt_": "1243.94",
+    "id": 1339
+  },
+  {
+    "_year": "2017-2018",
+    "month": "September",
+    "product": "DAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "7350.15",
+    "availability_in_mt_": "1314.81",
+    "id": 1340
+  },
+  {
+    "_year": "2017-2018",
+    "month": "March",
+    "product": "Urea",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "4117.92",
+    "availability_in_mt_": "7463.11",
+    "id": 1341
+  },
+  {
+    "_year": "2019-2020",
+    "month": "April",
+    "product": "SSP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "8572.25",
+    "availability_in_mt_": "130.19",
+    "id": 1342
+  },
+  {
+    "_year": "2019-2020",
+    "month": "December",
+    "product": "MAP",
+    "state": "Punjab",
+    "requirement_in_mt_": "7595.93",
+    "availability_in_mt_": "8672.12",
+    "id": 1343
+  },
+  {
+    "_year": "2017-2018",
+    "month": "August",
+    "product": "SSP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "346.26",
+    "availability_in_mt_": "9685.04",
+    "id": 1344
+  },
+  {
+    "_year": "2016-2017",
+    "month": "May",
+    "product": "MOP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "5121.09",
+    "availability_in_mt_": "5105.07",
+    "id": 1345
+  },
+  {
+    "_year": "2016-2017",
+    "month": "February",
+    "product": "DAP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "2160.76",
+    "availability_in_mt_": "6461.92",
+    "id": 1346
+  },
+  {
+    "_year": "2017-2018",
+    "month": "June",
+    "product": "SSP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "1800.36",
+    "availability_in_mt_": "5390.44",
+    "id": 1347
+  },
+  {
+    "_year": "2018-2019",
+    "month": "March",
+    "product": "MAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "6245.29",
+    "availability_in_mt_": "7715.80",
+    "id": 1348
+  },
+  {
+    "_year": "2019-2020",
+    "month": "June",
+    "product": "SSP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "5386.18",
+    "availability_in_mt_": "1232.45",
+    "id": 1349
+  },
+  {
+    "_year": "2018-2019",
+    "month": "April",
+    "product": "Urea",
+    "state": "Punjab",
+    "requirement_in_mt_": "7576.29",
+    "availability_in_mt_": "2862.84",
+    "id": 1350
+  },
+  {
+    "_year": "2016-2017",
+    "month": "May",
+    "product": "MOP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "6273.55",
+    "availability_in_mt_": "9855.05",
+    "id": 1351
+  },
+  {
+    "_year": "2015-2016",
+    "month": "July",
+    "product": "MOP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "2369.89",
+    "availability_in_mt_": "7041.61",
+    "id": 1352
+  },
+  {
+    "_year": "2017-2018",
+    "month": "November",
+    "product": "MOP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "8348.44",
+    "availability_in_mt_": "3732.07",
+    "id": 1353
+  },
+  {
+    "_year": "2016-2017",
+    "month": "February",
+    "product": "MAP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "5020.82",
+    "availability_in_mt_": "802.46",
+    "id": 1354
+  },
+  {
+    "_year": "2017-2018",
+    "month": "June",
+    "product": "MAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "7068.79",
+    "availability_in_mt_": "1157.42",
+    "id": 1355
+  },
+  {
+    "_year": "2017-2018",
+    "month": "January",
+    "product": "DAP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "5014.82",
+    "availability_in_mt_": "4898.91",
+    "id": 1356
+  },
+  {
+    "_year": "2015-2016",
+    "month": "March",
+    "product": "MAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "891.87",
+    "availability_in_mt_": "2157.23",
+    "id": 1357
+  },
+  {
+    "_year": "2015-2016",
+    "month": "October",
+    "product": "Urea",
+    "state": "Bihar",
+    "requirement_in_mt_": "9503.29",
+    "availability_in_mt_": "6411.70",
+    "id": 1358
+  },
+  {
+    "_year": "2016-2017",
+    "month": "January",
+    "product": "MAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "7477.37",
+    "availability_in_mt_": "9742.20",
+    "id": 1359
+  },
+  {
+    "_year": "2016-2017",
+    "month": "February",
+    "product": "DAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "4134.18",
+    "availability_in_mt_": "1669.71",
+    "id": 1360
+  },
+  {
+    "_year": "2016-2017",
+    "month": "April",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "670.99",
+    "availability_in_mt_": "8608.41",
+    "id": 1361
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "DAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "9741.07",
+    "availability_in_mt_": "520.42",
+    "id": 1362
+  },
+  {
+    "_year": "2018-2019",
+    "month": "July",
+    "product": "MOP",
+    "state": "Bihar",
+    "requirement_in_mt_": "619.09",
+    "availability_in_mt_": "8653.46",
+    "id": 1363
+  },
+  {
+    "_year": "2018-2019",
+    "month": "February",
+    "product": "SSP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "6442.06",
+    "availability_in_mt_": "5894.22",
+    "id": 1364
+  },
+  {
+    "_year": "2017-2018",
+    "month": "February",
+    "product": "DAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "2799.54",
+    "availability_in_mt_": "9755.76",
+    "id": 1365
+  },
+  {
+    "_year": "2016-2017",
+    "month": "January",
+    "product": "MAP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "9881.18",
+    "availability_in_mt_": "3781.19",
+    "id": 1366
+  },
+  {
+    "_year": "2018-2019",
+    "month": "September",
+    "product": "DAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "9094.86",
+    "availability_in_mt_": "1466.16",
+    "id": 1367
+  },
+  {
+    "_year": "2018-2019",
+    "month": "November",
+    "product": "SSP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "516.67",
+    "availability_in_mt_": "6991.34",
+    "id": 1368
+  },
+  {
+    "_year": "2019-2020",
+    "month": "March",
+    "product": "DAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "4266.32",
+    "availability_in_mt_": "2058.44",
+    "id": 1369
+  },
+  {
+    "_year": "2017-2018",
+    "month": "October",
+    "product": "SSP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "3542.00",
+    "availability_in_mt_": "3863.78",
+    "id": 1370
+  },
+  {
+    "_year": "2016-2017",
+    "month": "September",
+    "product": "Urea",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "8003.54",
+    "availability_in_mt_": "604.20",
+    "id": 1371
+  },
+  {
+    "_year": "2018-2019",
+    "month": "October",
+    "product": "SSP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "3891.26",
+    "availability_in_mt_": "8897.69",
+    "id": 1372
+  },
+  {
+    "_year": "2015-2016",
+    "month": "November",
+    "product": "DAP",
+    "state": "Haryana",
+    "requirement_in_mt_": "5174.41",
+    "availability_in_mt_": "235.44",
+    "id": 1373
+  },
+  {
+    "_year": "2019-2020",
+    "month": "December",
+    "product": "MAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "5976.12",
+    "availability_in_mt_": "4408.24",
+    "id": 1374
+  },
+  {
+    "_year": "2016-2017",
+    "month": "October",
+    "product": "DAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "737.96",
+    "availability_in_mt_": "1785.40",
+    "id": 1375
+  },
+  {
+    "_year": "2019-2020",
+    "month": "February",
+    "product": "MAP",
+    "state": "Haryana",
+    "requirement_in_mt_": "4762.71",
+    "availability_in_mt_": "6909.86",
+    "id": 1376
+  },
+  {
+    "_year": "2015-2016",
+    "month": "July",
+    "product": "MAP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "1740.13",
+    "availability_in_mt_": "136.50",
+    "id": 1377
+  },
+  {
+    "_year": "2016-2017",
+    "month": "April",
+    "product": "Urea",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "2958.45",
+    "availability_in_mt_": "3730.62",
+    "id": 1378
+  },
+  {
+    "_year": "2016-2017",
+    "month": "July",
+    "product": "SSP",
+    "state": "Punjab",
+    "requirement_in_mt_": "6262.71",
+    "availability_in_mt_": "2077.13",
+    "id": 1379
+  },
+  {
+    "_year": "2018-2019",
+    "month": "December",
+    "product": "Urea",
+    "state": "Punjab",
+    "requirement_in_mt_": "18.79",
+    "availability_in_mt_": "7433.22",
+    "id": 1380
+  },
+  {
+    "_year": "2016-2017",
+    "month": "August",
+    "product": "MAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "5458.91",
+    "availability_in_mt_": "8498.91",
+    "id": 1381
+  },
+  {
+    "_year": "2016-2017",
+    "month": "October",
+    "product": "MAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "1989.88",
+    "availability_in_mt_": "7924.71",
+    "id": 1382
+  },
+  {
+    "_year": "2018-2019",
+    "month": "June",
+    "product": "MAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "1871.59",
+    "availability_in_mt_": "6787.13",
+    "id": 1383
+  },
+  {
+    "_year": "2017-2018",
+    "month": "September",
+    "product": "DAP",
+    "state": "Haryana",
+    "requirement_in_mt_": "3712.31",
+    "availability_in_mt_": "2333.22",
+    "id": 1384
+  },
+  {
+    "_year": "2017-2018",
+    "month": "June",
+    "product": "MOP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "5323.32",
+    "availability_in_mt_": "2332.35",
+    "id": 1385
+  },
+  {
+    "_year": "2016-2017",
+    "month": "April",
+    "product": "MOP",
+    "state": "Haryana",
+    "requirement_in_mt_": "3858.81",
+    "availability_in_mt_": "7903.36",
+    "id": 1386
+  },
+  {
+    "_year": "2017-2018",
+    "month": "March",
+    "product": "Urea",
+    "state": "Punjab",
+    "requirement_in_mt_": "8563.52",
+    "availability_in_mt_": "7707.63",
+    "id": 1387
+  },
+  {
+    "_year": "2016-2017",
+    "month": "March",
+    "product": "SSP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "2027.23",
+    "availability_in_mt_": "1544.55",
+    "id": 1388
+  },
+  {
+    "_year": "2017-2018",
+    "month": "March",
+    "product": "DAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "7848.14",
+    "availability_in_mt_": "6459.88",
+    "id": 1389
+  },
+  {
+    "_year": "2017-2018",
+    "month": "April",
+    "product": "DAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "1326.13",
+    "availability_in_mt_": "866.87",
+    "id": 1390
+  },
+  {
+    "_year": "2015-2016",
+    "month": "July",
+    "product": "MOP",
+    "state": "Bihar",
+    "requirement_in_mt_": "3579.02",
+    "availability_in_mt_": "1521.79",
+    "id": 1391
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "DAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "1474.39",
+    "availability_in_mt_": "8951.38",
+    "id": 1392
+  },
+  {
+    "_year": "2019-2020",
+    "month": "March",
+    "product": "Urea",
+    "state": "Haryana",
+    "requirement_in_mt_": "9596.09",
+    "availability_in_mt_": "2217.20",
+    "id": 1393
+  },
+  {
+    "_year": "2016-2017",
+    "month": "July",
+    "product": "DAP",
+    "state": "Haryana",
+    "requirement_in_mt_": "3919.74",
+    "availability_in_mt_": "2984.15",
+    "id": 1394
+  },
+  {
+    "_year": "2015-2016",
+    "month": "June",
+    "product": "MOP",
+    "state": "Bihar",
+    "requirement_in_mt_": "4637.08",
+    "availability_in_mt_": "9404.09",
+    "id": 1395
+  },
+  {
+    "_year": "2015-2016",
+    "month": "November",
+    "product": "MAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "3698.71",
+    "availability_in_mt_": "5467.79",
+    "id": 1396
+  },
+  {
+    "_year": "2016-2017",
+    "month": "April",
+    "product": "SSP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "6139.40",
+    "availability_in_mt_": "58.10",
+    "id": 1397
+  },
+  {
+    "_year": "2015-2016",
+    "month": "July",
+    "product": "DAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "7907.14",
+    "availability_in_mt_": "6377.77",
+    "id": 1398
+  },
+  {
+    "_year": "2017-2018",
+    "month": "July",
+    "product": "MOP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "9031.29",
+    "availability_in_mt_": "1309.17",
+    "id": 1399
+  },
+  {
+    "_year": "2017-2018",
+    "month": "August",
+    "product": "MAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "5393.89",
+    "availability_in_mt_": "3939.99",
+    "id": 1400
+  },
+  {
+    "_year": "2019-2020",
+    "month": "August",
+    "product": "Urea",
+    "state": "Karnataka",
+    "requirement_in_mt_": "580.41",
+    "availability_in_mt_": "1397.12",
+    "id": 1401
+  },
+  {
+    "_year": "2017-2018",
+    "month": "July",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2384.06",
+    "availability_in_mt_": "176.21",
+    "id": 1402
+  },
+  {
+    "_year": "2019-2020",
+    "month": "June",
+    "product": "DAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "8396.97",
+    "availability_in_mt_": "854.20",
+    "id": 1403
+  },
+  {
+    "_year": "2019-2020",
+    "month": "September",
+    "product": "Urea",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "5266.41",
+    "availability_in_mt_": "9873.31",
+    "id": 1404
+  },
+  {
+    "_year": "2018-2019",
+    "month": "June",
+    "product": "DAP",
+    "state": "Punjab",
+    "requirement_in_mt_": "7631.94",
+    "availability_in_mt_": "1756.77",
+    "id": 1405
+  },
+  {
+    "_year": "2015-2016",
+    "month": "March",
+    "product": "DAP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "8244.23",
+    "availability_in_mt_": "5589.35",
+    "id": 1406
+  },
+  {
+    "_year": "2017-2018",
+    "month": "December",
+    "product": "DAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "7052.54",
+    "availability_in_mt_": "2442.28",
+    "id": 1407
+  },
+  {
+    "_year": "2017-2018",
+    "month": "January",
+    "product": "DAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "9706.22",
+    "availability_in_mt_": "9872.83",
+    "id": 1408
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "SSP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "784.50",
+    "availability_in_mt_": "7496.63",
+    "id": 1409
+  },
+  {
+    "_year": "2018-2019",
+    "month": "July",
+    "product": "DAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "2401.89",
+    "availability_in_mt_": "8542.87",
+    "id": 1410
+  },
+  {
+    "_year": "2015-2016",
+    "month": "March",
+    "product": "Urea",
+    "state": "Bihar",
+    "requirement_in_mt_": "3336.56",
+    "availability_in_mt_": "9148.87",
+    "id": 1411
+  },
+  {
+    "_year": "2017-2018",
+    "month": "March",
+    "product": "MOP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "8990.79",
+    "availability_in_mt_": "1460.75",
+    "id": 1412
+  },
+  {
+    "_year": "2017-2018",
+    "month": "April",
+    "product": "Urea",
+    "state": "Haryana",
+    "requirement_in_mt_": "5571.44",
+    "availability_in_mt_": "5538.57",
+    "id": 1413
+  },
+  {
+    "_year": "2015-2016",
+    "month": "May",
+    "product": "SSP",
+    "state": "Punjab",
+    "requirement_in_mt_": "6605.06",
+    "availability_in_mt_": "3504.83",
+    "id": 1414
+  },
+  {
+    "_year": "2018-2019",
+    "month": "March",
+    "product": "Urea",
+    "state": "Karnataka",
+    "requirement_in_mt_": "7918.62",
+    "availability_in_mt_": "595.17",
+    "id": 1415
+  },
+  {
+    "_year": "2015-2016",
+    "month": "November",
+    "product": "DAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "8340.41",
+    "availability_in_mt_": "5644.31",
+    "id": 1416
+  },
+  {
+    "_year": "2016-2017",
+    "month": "December",
+    "product": "SSP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "3772.38",
+    "availability_in_mt_": "8818.05",
+    "id": 1417
+  },
+  {
+    "_year": "2019-2020",
+    "month": "March",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9428.64",
+    "availability_in_mt_": "7457.86",
+    "id": 1418
+  },
+  {
+    "_year": "2016-2017",
+    "month": "November",
+    "product": "Urea",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "4708.44",
+    "availability_in_mt_": "6099.03",
+    "id": 1419
+  },
+  {
+    "_year": "2015-2016",
+    "month": "December",
+    "product": "Urea",
+    "state": "Bihar",
+    "requirement_in_mt_": "8949.05",
+    "availability_in_mt_": "3908.27",
+    "id": 1420
+  },
+  {
+    "_year": "2016-2017",
+    "month": "December",
+    "product": "SSP",
+    "state": "Bihar",
+    "requirement_in_mt_": "3354.56",
+    "availability_in_mt_": "8316.27",
+    "id": 1421
+  },
+  {
+    "_year": "2019-2020",
+    "month": "March",
+    "product": "SSP",
+    "state": "Bihar",
+    "requirement_in_mt_": "7470.69",
+    "availability_in_mt_": "2355.50",
+    "id": 1422
+  },
+  {
+    "_year": "2016-2017",
+    "month": "March",
+    "product": "DAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "4707.66",
+    "availability_in_mt_": "5221.52",
+    "id": 1423
+  },
+  {
+    "_year": "2016-2017",
+    "month": "June",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7045.53",
+    "availability_in_mt_": "280.15",
+    "id": 1424
+  },
+  {
+    "_year": "2017-2018",
+    "month": "October",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4380.26",
+    "availability_in_mt_": "2029.60",
+    "id": 1425
+  },
+  {
+    "_year": "2017-2018",
+    "month": "June",
+    "product": "Urea",
+    "state": "Karnataka",
+    "requirement_in_mt_": "8723.07",
+    "availability_in_mt_": "3936.64",
+    "id": 1426
+  },
+  {
+    "_year": "2016-2017",
+    "month": "May",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6776.66",
+    "availability_in_mt_": "7056.07",
+    "id": 1427
+  },
+  {
+    "_year": "2017-2018",
+    "month": "January",
+    "product": "Urea",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "6888.01",
+    "availability_in_mt_": "3746.54",
+    "id": 1428
+  },
+  {
+    "_year": "2019-2020",
+    "month": "September",
+    "product": "Urea",
+    "state": "Bihar",
+    "requirement_in_mt_": "6426.75",
+    "availability_in_mt_": "8062.91",
+    "id": 1429
+  },
+  {
+    "_year": "2015-2016",
+    "month": "December",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3313.45",
+    "availability_in_mt_": "6238.23",
+    "id": 1430
+  },
+  {
+    "_year": "2015-2016",
+    "month": "September",
+    "product": "Urea",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "2180.37",
+    "availability_in_mt_": "4635.94",
+    "id": 1431
+  },
+  {
+    "_year": "2018-2019",
+    "month": "September",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2129.59",
+    "availability_in_mt_": "1182.52",
+    "id": 1432
+  },
+  {
+    "_year": "2016-2017",
+    "month": "October",
+    "product": "MAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "7972.52",
+    "availability_in_mt_": "4769.33",
+    "id": 1433
+  },
+  {
+    "_year": "2018-2019",
+    "month": "November",
+    "product": "MAP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "3574.72",
+    "availability_in_mt_": "6922.45",
+    "id": 1434
+  },
+  {
+    "_year": "2018-2019",
+    "month": "May",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1697.71",
+    "availability_in_mt_": "9244.15",
+    "id": 1435
+  },
+  {
+    "_year": "2019-2020",
+    "month": "September",
+    "product": "MOP",
+    "state": "Haryana",
+    "requirement_in_mt_": "9145.34",
+    "availability_in_mt_": "7693.48",
+    "id": 1436
+  },
+  {
+    "_year": "2018-2019",
+    "month": "June",
+    "product": "Urea",
+    "state": "Haryana",
+    "requirement_in_mt_": "8811.08",
+    "availability_in_mt_": "2066.89",
+    "id": 1437
+  },
+  {
+    "_year": "2015-2016",
+    "month": "February",
+    "product": "MAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "7662.95",
+    "availability_in_mt_": "7291.72",
+    "id": 1438
+  },
+  {
+    "_year": "2019-2020",
+    "month": "July",
+    "product": "DAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "1157.56",
+    "availability_in_mt_": "5170.47",
+    "id": 1439
+  },
+  {
+    "_year": "2019-2020",
+    "month": "September",
+    "product": "Urea",
+    "state": "Punjab",
+    "requirement_in_mt_": "7429.03",
+    "availability_in_mt_": "5271.40",
+    "id": 1440
+  },
+  {
+    "_year": "2016-2017",
+    "month": "January",
+    "product": "Urea",
+    "state": "West Bengal",
+    "requirement_in_mt_": "9840.78",
+    "availability_in_mt_": "9362.78",
+    "id": 1441
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "DAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "5318.59",
+    "availability_in_mt_": "2633.98",
+    "id": 1442
+  },
+  {
+    "_year": "2017-2018",
+    "month": "December",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8936.75",
+    "availability_in_mt_": "5255.64",
+    "id": 1443
+  },
+  {
+    "_year": "2018-2019",
+    "month": "December",
+    "product": "Urea",
+    "state": "Bihar",
+    "requirement_in_mt_": "8522.47",
+    "availability_in_mt_": "6866.99",
+    "id": 1444
+  },
+  {
+    "_year": "2016-2017",
+    "month": "December",
+    "product": "MOP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "7223.62",
+    "availability_in_mt_": "1935.21",
+    "id": 1445
+  },
+  {
+    "_year": "2016-2017",
+    "month": "April",
+    "product": "MAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "297.93",
+    "availability_in_mt_": "6364.58",
+    "id": 1446
+  },
+  {
+    "_year": "2018-2019",
+    "month": "February",
+    "product": "Urea",
+    "state": "Gujarat",
+    "requirement_in_mt_": "3447.81",
+    "availability_in_mt_": "4878.23",
+    "id": 1447
+  },
+  {
+    "_year": "2016-2017",
+    "month": "November",
+    "product": "MAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "5935.44",
+    "availability_in_mt_": "6691.38",
+    "id": 1448
+  },
+  {
+    "_year": "2019-2020",
+    "month": "June",
+    "product": "MAP",
+    "state": "Haryana",
+    "requirement_in_mt_": "3493.04",
+    "availability_in_mt_": "6486.07",
+    "id": 1449
+  },
+  {
+    "_year": "2017-2018",
+    "month": "August",
+    "product": "MOP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "8042.96",
+    "availability_in_mt_": "6275.98",
+    "id": 1450
+  },
+  {
+    "_year": "2015-2016",
+    "month": "August",
+    "product": "DAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "4306.13",
+    "availability_in_mt_": "5810.23",
+    "id": 1451
+  },
+  {
+    "_year": "2019-2020",
+    "month": "December",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2503.94",
+    "availability_in_mt_": "7096.86",
+    "id": 1452
+  },
+  {
+    "_year": "2016-2017",
+    "month": "October",
+    "product": "SSP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "2152.78",
+    "availability_in_mt_": "5472.25",
+    "id": 1453
+  },
+  {
+    "_year": "2019-2020",
+    "month": "September",
+    "product": "DAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "7661.95",
+    "availability_in_mt_": "6380.43",
+    "id": 1454
+  },
+  {
+    "_year": "2019-2020",
+    "month": "April",
+    "product": "MOP",
+    "state": "Bihar",
+    "requirement_in_mt_": "1431.93",
+    "availability_in_mt_": "9299.70",
+    "id": 1455
+  },
+  {
+    "_year": "2016-2017",
+    "month": "June",
+    "product": "Urea",
+    "state": "Bihar",
+    "requirement_in_mt_": "4043.17",
+    "availability_in_mt_": "5465.70",
+    "id": 1456
+  },
+  {
+    "_year": "2019-2020",
+    "month": "August",
+    "product": "MOP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "242.97",
+    "availability_in_mt_": "2577.57",
+    "id": 1457
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "SSP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "896.94",
+    "availability_in_mt_": "8990.75",
+    "id": 1458
+  },
+  {
+    "_year": "2016-2017",
+    "month": "July",
+    "product": "Urea",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "3934.35",
+    "availability_in_mt_": "431.54",
+    "id": 1459
+  },
+  {
+    "_year": "2019-2020",
+    "month": "September",
+    "product": "MAP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "4711.99",
+    "availability_in_mt_": "6700.42",
+    "id": 1460
+  },
+  {
+    "_year": "2017-2018",
+    "month": "June",
+    "product": "SSP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "9496.44",
+    "availability_in_mt_": "8412.38",
+    "id": 1461
+  },
+  {
+    "_year": "2016-2017",
+    "month": "November",
+    "product": "Urea",
+    "state": "Gujarat",
+    "requirement_in_mt_": "2508.85",
+    "availability_in_mt_": "3283.65",
+    "id": 1462
+  },
+  {
+    "_year": "2018-2019",
+    "month": "February",
+    "product": "SSP",
+    "state": "Bihar",
+    "requirement_in_mt_": "8006.41",
+    "availability_in_mt_": "4619.38",
+    "id": 1463
+  },
+  {
+    "_year": "2015-2016",
+    "month": "June",
+    "product": "MOP",
+    "state": "Bihar",
+    "requirement_in_mt_": "5272.34",
+    "availability_in_mt_": "2384.37",
+    "id": 1464
+  },
+  {
+    "_year": "2016-2017",
+    "month": "October",
+    "product": "SSP",
+    "state": "Punjab",
+    "requirement_in_mt_": "1062.10",
+    "availability_in_mt_": "13.55",
+    "id": 1465
+  },
+  {
+    "_year": "2015-2016",
+    "month": "January",
+    "product": "SSP",
+    "state": "Haryana",
+    "requirement_in_mt_": "8594.22",
+    "availability_in_mt_": "5325.37",
+    "id": 1466
+  },
+  {
+    "_year": "2018-2019",
+    "month": "July",
+    "product": "SSP",
+    "state": "Punjab",
+    "requirement_in_mt_": "4969.54",
+    "availability_in_mt_": "2867.34",
+    "id": 1467
+  },
+  {
+    "_year": "2016-2017",
+    "month": "October",
+    "product": "SSP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "6902.90",
+    "availability_in_mt_": "5038.92",
+    "id": 1468
+  },
+  {
+    "_year": "2016-2017",
+    "month": "July",
+    "product": "DAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "5094.66",
+    "availability_in_mt_": "118.50",
+    "id": 1469
+  },
+  {
+    "_year": "2015-2016",
+    "month": "September",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7830.04",
+    "availability_in_mt_": "1304.14",
+    "id": 1470
+  },
+  {
+    "_year": "2015-2016",
+    "month": "September",
+    "product": "MOP",
+    "state": "Bihar",
+    "requirement_in_mt_": "4449.69",
+    "availability_in_mt_": "7006.62",
+    "id": 1471
+  },
+  {
+    "_year": "2018-2019",
+    "month": "March",
+    "product": "DAP",
+    "state": "Punjab",
+    "requirement_in_mt_": "2423.68",
+    "availability_in_mt_": "822.89",
+    "id": 1472
+  },
+  {
+    "_year": "2015-2016",
+    "month": "October",
+    "product": "DAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "2978.52",
+    "availability_in_mt_": "7304.04",
+    "id": 1473
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "MOP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "9859.16",
+    "availability_in_mt_": "5242.04",
+    "id": 1474
+  },
+  {
+    "_year": "2018-2019",
+    "month": "July",
+    "product": "MOP",
+    "state": "Haryana",
+    "requirement_in_mt_": "3075.06",
+    "availability_in_mt_": "9545.32",
+    "id": 1475
+  },
+  {
+    "_year": "2017-2018",
+    "month": "March",
+    "product": "Urea",
+    "state": "Bihar",
+    "requirement_in_mt_": "7971.37",
+    "availability_in_mt_": "9998.74",
+    "id": 1476
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "SSP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "8292.05",
+    "availability_in_mt_": "6502.99",
+    "id": 1477
+  },
+  {
+    "_year": "2018-2019",
+    "month": "February",
+    "product": "MAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "5942.25",
+    "availability_in_mt_": "3085.48",
+    "id": 1478
+  },
+  {
+    "_year": "2019-2020",
+    "month": "March",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1576.30",
+    "availability_in_mt_": "9147.54",
+    "id": 1479
+  },
+  {
+    "_year": "2016-2017",
+    "month": "October",
+    "product": "DAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "6197.40",
+    "availability_in_mt_": "1543.10",
+    "id": 1480
+  },
+  {
+    "_year": "2015-2016",
+    "month": "January",
+    "product": "Urea",
+    "state": "Gujarat",
+    "requirement_in_mt_": "601.52",
+    "availability_in_mt_": "3143.50",
+    "id": 1481
+  },
+  {
+    "_year": "2017-2018",
+    "month": "December",
+    "product": "MAP",
+    "state": "Haryana",
+    "requirement_in_mt_": "7882.47",
+    "availability_in_mt_": "3786.63",
+    "id": 1482
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "MAP",
+    "state": "Haryana",
+    "requirement_in_mt_": "7005.02",
+    "availability_in_mt_": "3395.67",
+    "id": 1483
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2862.46",
+    "availability_in_mt_": "1463.47",
+    "id": 1484
+  },
+  {
+    "_year": "2019-2020",
+    "month": "May",
+    "product": "DAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "1700.60",
+    "availability_in_mt_": "2270.43",
+    "id": 1485
+  },
+  {
+    "_year": "2018-2019",
+    "month": "October",
+    "product": "MAP",
+    "state": "Haryana",
+    "requirement_in_mt_": "7389.38",
+    "availability_in_mt_": "2564.90",
+    "id": 1486
+  },
+  {
+    "_year": "2019-2020",
+    "month": "February",
+    "product": "SSP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "1388.53",
+    "availability_in_mt_": "5316.50",
+    "id": 1487
+  },
+  {
+    "_year": "2017-2018",
+    "month": "April",
+    "product": "MAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "5527.54",
+    "availability_in_mt_": "1844.10",
+    "id": 1488
+  },
+  {
+    "_year": "2019-2020",
+    "month": "December",
+    "product": "MAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "286.51",
+    "availability_in_mt_": "7091.53",
+    "id": 1489
+  },
+  {
+    "_year": "2019-2020",
+    "month": "December",
+    "product": "Urea",
+    "state": "Gujarat",
+    "requirement_in_mt_": "3831.06",
+    "availability_in_mt_": "470.66",
+    "id": 1490
+  },
+  {
+    "_year": "2016-2017",
+    "month": "August",
+    "product": "MOP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "8257.59",
+    "availability_in_mt_": "3571.36",
+    "id": 1491
+  },
+  {
+    "_year": "2018-2019",
+    "month": "April",
+    "product": "MOP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "5200.62",
+    "availability_in_mt_": "2315.76",
+    "id": 1492
+  },
+  {
+    "_year": "2017-2018",
+    "month": "April",
+    "product": "Urea",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "3881.18",
+    "availability_in_mt_": "9906.72",
+    "id": 1493
+  },
+  {
+    "_year": "2017-2018",
+    "month": "May",
+    "product": "DAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "3515.97",
+    "availability_in_mt_": "2396.51",
+    "id": 1494
+  },
+  {
+    "_year": "2018-2019",
+    "month": "October",
+    "product": "DAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "8646.80",
+    "availability_in_mt_": "7859.61",
+    "id": 1495
+  },
+  {
+    "_year": "2017-2018",
+    "month": "August",
+    "product": "SSP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "7552.05",
+    "availability_in_mt_": "5118.08",
+    "id": 1496
+  },
+  {
+    "_year": "2019-2020",
+    "month": "February",
+    "product": "DAP",
+    "state": "Punjab",
+    "requirement_in_mt_": "2428.07",
+    "availability_in_mt_": "9988.68",
+    "id": 1497
+  },
+  {
+    "_year": "2019-2020",
+    "month": "September",
+    "product": "DAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "7744.75",
+    "availability_in_mt_": "217.65",
+    "id": 1498
+  },
+  {
+    "_year": "2015-2016",
+    "month": "October",
+    "product": "DAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "3545.40",
+    "availability_in_mt_": "8723.61",
+    "id": 1499
+  },
+  {
+    "_year": "2019-2020",
+    "month": "April",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3879.69",
+    "availability_in_mt_": "7980.90",
+    "id": 1500
+  },
+  {
+    "_year": "2018-2019",
+    "month": "November",
+    "product": "MOP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "109.97",
+    "availability_in_mt_": "1606.88",
+    "id": 1501
+  },
+  {
+    "_year": "2019-2020",
+    "month": "August",
+    "product": "SSP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "3503.28",
+    "availability_in_mt_": "1863.88",
+    "id": 1502
+  },
+  {
+    "_year": "2017-2018",
+    "month": "April",
+    "product": "MAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "1840.72",
+    "availability_in_mt_": "7071.97",
+    "id": 1503
+  },
+  {
+    "_year": "2018-2019",
+    "month": "January",
+    "product": "DAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "2985.94",
+    "availability_in_mt_": "7014.00",
+    "id": 1504
+  },
+  {
+    "_year": "2015-2016",
+    "month": "December",
+    "product": "MOP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "8650.89",
+    "availability_in_mt_": "9697.92",
+    "id": 1505
+  },
+  {
+    "_year": "2015-2016",
+    "month": "July",
+    "product": "MAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "6532.53",
+    "availability_in_mt_": "4482.70",
+    "id": 1506
+  },
+  {
+    "_year": "2015-2016",
+    "month": "October",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7054.87",
+    "availability_in_mt_": "2648.64",
+    "id": 1507
+  },
+  {
+    "_year": "2019-2020",
+    "month": "February",
+    "product": "DAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "2805.99",
+    "availability_in_mt_": "4134.18",
+    "id": 1508
+  },
+  {
+    "_year": "2015-2016",
+    "month": "September",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4878.29",
+    "availability_in_mt_": "6377.04",
+    "id": 1509
+  },
+  {
+    "_year": "2018-2019",
+    "month": "July",
+    "product": "MOP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "9355.05",
+    "availability_in_mt_": "9125.58",
+    "id": 1510
+  },
+  {
+    "_year": "2017-2018",
+    "month": "February",
+    "product": "SSP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "3124.79",
+    "availability_in_mt_": "2462.62",
+    "id": 1511
+  },
+  {
+    "_year": "2015-2016",
+    "month": "September",
+    "product": "SSP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "1232.50",
+    "availability_in_mt_": "5207.33",
+    "id": 1512
+  },
+  {
+    "_year": "2015-2016",
+    "month": "April",
+    "product": "MAP",
+    "state": "Punjab",
+    "requirement_in_mt_": "7214.50",
+    "availability_in_mt_": "8180.24",
+    "id": 1513
+  },
+  {
+    "_year": "2015-2016",
+    "month": "June",
+    "product": "MAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "647.45",
+    "availability_in_mt_": "3908.07",
+    "id": 1514
+  },
+  {
+    "_year": "2017-2018",
+    "month": "April",
+    "product": "MOP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "301.79",
+    "availability_in_mt_": "3910.72",
+    "id": 1515
+  },
+  {
+    "_year": "2019-2020",
+    "month": "March",
+    "product": "DAP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "7329.85",
+    "availability_in_mt_": "8031.01",
+    "id": 1516
+  },
+  {
+    "_year": "2018-2019",
+    "month": "November",
+    "product": "MOP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "8407.11",
+    "availability_in_mt_": "9526.08",
+    "id": 1517
+  },
+  {
+    "_year": "2017-2018",
+    "month": "June",
+    "product": "SSP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "4446.18",
+    "availability_in_mt_": "7820.72",
+    "id": 1518
+  },
+  {
+    "_year": "2015-2016",
+    "month": "November",
+    "product": "DAP",
+    "state": "Haryana",
+    "requirement_in_mt_": "9970.76",
+    "availability_in_mt_": "2902.49",
+    "id": 1519
+  },
+  {
+    "_year": "2017-2018",
+    "month": "May",
+    "product": "MAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "4895.23",
+    "availability_in_mt_": "3845.30",
+    "id": 1520
+  },
+  {
+    "_year": "2016-2017",
+    "month": "April",
+    "product": "DAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "4137.44",
+    "availability_in_mt_": "691.99",
+    "id": 1521
+  },
+  {
+    "_year": "2015-2016",
+    "month": "August",
+    "product": "SSP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "2355.04",
+    "availability_in_mt_": "3680.63",
+    "id": 1522
+  },
+  {
+    "_year": "2016-2017",
+    "month": "November",
+    "product": "MAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "7655.66",
+    "availability_in_mt_": "4466.86",
+    "id": 1523
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "MAP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "8045.95",
+    "availability_in_mt_": "7002.54",
+    "id": 1524
+  },
+  {
+    "_year": "2017-2018",
+    "month": "February",
+    "product": "SSP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "6453.85",
+    "availability_in_mt_": "7385.16",
+    "id": 1525
+  },
+  {
+    "_year": "2017-2018",
+    "month": "June",
+    "product": "MOP",
+    "state": "Punjab",
+    "requirement_in_mt_": "2359.08",
+    "availability_in_mt_": "535.23",
+    "id": 1526
+  },
+  {
+    "_year": "2018-2019",
+    "month": "January",
+    "product": "MAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "9236.34",
+    "availability_in_mt_": "366.39",
+    "id": 1527
+  },
+  {
+    "_year": "2018-2019",
+    "month": "February",
+    "product": "MOP",
+    "state": "Punjab",
+    "requirement_in_mt_": "7793.07",
+    "availability_in_mt_": "7939.85",
+    "id": 1528
+  },
+  {
+    "_year": "2017-2018",
+    "month": "February",
+    "product": "MAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "9086.12",
+    "availability_in_mt_": "4133.76",
+    "id": 1529
+  },
+  {
+    "_year": "2015-2016",
+    "month": "June",
+    "product": "MAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "3998.45",
+    "availability_in_mt_": "9640.41",
+    "id": 1530
+  },
+  {
+    "_year": "2019-2020",
+    "month": "September",
+    "product": "DAP",
+    "state": "Punjab",
+    "requirement_in_mt_": "6023.12",
+    "availability_in_mt_": "1869.31",
+    "id": 1531
+  },
+  {
+    "_year": "2016-2017",
+    "month": "June",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "41.71",
+    "availability_in_mt_": "809.70",
+    "id": 1532
+  },
+  {
+    "_year": "2019-2020",
+    "month": "December",
+    "product": "DAP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "3006.88",
+    "availability_in_mt_": "6334.39",
+    "id": 1533
+  },
+  {
+    "_year": "2016-2017",
+    "month": "October",
+    "product": "MAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "2772.57",
+    "availability_in_mt_": "6963.65",
+    "id": 1534
+  },
+  {
+    "_year": "2015-2016",
+    "month": "November",
+    "product": "MOP",
+    "state": "Haryana",
+    "requirement_in_mt_": "5001.95",
+    "availability_in_mt_": "9440.71",
+    "id": 1535
+  },
+  {
+    "_year": "2018-2019",
+    "month": "June",
+    "product": "Urea",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "9345.43",
+    "availability_in_mt_": "6785.88",
+    "id": 1536
+  },
+  {
+    "_year": "2017-2018",
+    "month": "February",
+    "product": "DAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "6207.56",
+    "availability_in_mt_": "651.87",
+    "id": 1537
+  },
+  {
+    "_year": "2016-2017",
+    "month": "June",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5641.96",
+    "availability_in_mt_": "609.57",
+    "id": 1538
+  },
+  {
+    "_year": "2015-2016",
+    "month": "April",
+    "product": "SSP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "1.86",
+    "availability_in_mt_": "981.29",
+    "id": 1539
+  },
+  {
+    "_year": "2019-2020",
+    "month": "December",
+    "product": "MOP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "2463.91",
+    "availability_in_mt_": "6909.77",
+    "id": 1540
+  },
+  {
+    "_year": "2018-2019",
+    "month": "March",
+    "product": "Urea",
+    "state": "Punjab",
+    "requirement_in_mt_": "2106.83",
+    "availability_in_mt_": "606.21",
+    "id": 1541
+  },
+  {
+    "_year": "2019-2020",
+    "month": "June",
+    "product": "SSP",
+    "state": "Bihar",
+    "requirement_in_mt_": "3097.26",
+    "availability_in_mt_": "6709.64",
+    "id": 1542
+  },
+  {
+    "_year": "2019-2020",
+    "month": "November",
+    "product": "Urea",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "3360.64",
+    "availability_in_mt_": "8623.84",
+    "id": 1543
+  },
+  {
+    "_year": "2016-2017",
+    "month": "May",
+    "product": "MAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "4770.06",
+    "availability_in_mt_": "9371.89",
+    "id": 1544
+  },
+  {
+    "_year": "2019-2020",
+    "month": "July",
+    "product": "MOP",
+    "state": "Punjab",
+    "requirement_in_mt_": "909.43",
+    "availability_in_mt_": "9824.49",
+    "id": 1545
+  },
+  {
+    "_year": "2017-2018",
+    "month": "October",
+    "product": "Urea",
+    "state": "West Bengal",
+    "requirement_in_mt_": "2711.04",
+    "availability_in_mt_": "8113.40",
+    "id": 1546
+  },
+  {
+    "_year": "2015-2016",
+    "month": "July",
+    "product": "SSP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "9472.02",
+    "availability_in_mt_": "3440.36",
+    "id": 1547
+  },
+  {
+    "_year": "2015-2016",
+    "month": "December",
+    "product": "MAP",
+    "state": "Karnataka",
+    "requirement_in_mt_": "5749.14",
+    "availability_in_mt_": "8139.42",
+    "id": 1548
+  },
+  {
+    "_year": "2015-2016",
+    "month": "January",
+    "product": "DAP",
+    "state": "Haryana",
+    "requirement_in_mt_": "4176.20",
+    "availability_in_mt_": "8615.27",
+    "id": 1549
+  },
+  {
+    "_year": "2015-2016",
+    "month": "October",
+    "product": "MAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "2920.64",
+    "availability_in_mt_": "3102.46",
+    "id": 1550
+  },
+  {
+    "_year": "2015-2016",
+    "month": "November",
+    "product": "MOP",
+    "state": "Bihar",
+    "requirement_in_mt_": "2614.30",
+    "availability_in_mt_": "4031.87",
+    "id": 1551
+  },
+  {
+    "_year": "2016-2017",
+    "month": "February",
+    "product": "MOP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "2799.87",
+    "availability_in_mt_": "5852.75",
+    "id": 1552
+  },
+  {
+    "_year": "2018-2019",
+    "month": "September",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2506.23",
+    "availability_in_mt_": "4927.24",
+    "id": 1553
+  },
+  {
+    "_year": "2018-2019",
+    "month": "May",
+    "product": "SSP",
+    "state": "Haryana",
+    "requirement_in_mt_": "9060.60",
+    "availability_in_mt_": "9170.89",
+    "id": 1554
+  },
+  {
+    "_year": "2015-2016",
+    "month": "May",
+    "product": "Urea",
+    "state": "West Bengal",
+    "requirement_in_mt_": "3176.81",
+    "availability_in_mt_": "5026.34",
+    "id": 1555
+  },
+  {
+    "_year": "2015-2016",
+    "month": "June",
+    "product": "DAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "9651.95",
+    "availability_in_mt_": "3454.96",
+    "id": 1556
+  },
+  {
+    "_year": "2017-2018",
+    "month": "September",
+    "product": "MOP",
+    "state": "Bihar",
+    "requirement_in_mt_": "1815.32",
+    "availability_in_mt_": "5178.64",
+    "id": 1557
+  },
+  {
+    "_year": "2019-2020",
+    "month": "November",
+    "product": "MAP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "6054.65",
+    "availability_in_mt_": "4028.37",
+    "id": 1558
+  },
+  {
+    "_year": "2018-2019",
+    "month": "March",
+    "product": "DAP",
+    "state": "Maharashtra",
+    "requirement_in_mt_": "2630.21",
+    "availability_in_mt_": "3453.61",
+    "id": 1559
+  },
+  {
+    "_year": "2017-2018",
+    "month": "April",
+    "product": "MAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "5801.71",
+    "availability_in_mt_": "2979.82",
+    "id": 1560
+  },
+  {
+    "_year": "2017-2018",
+    "month": "August",
+    "product": "MAP",
+    "state": "Punjab",
+    "requirement_in_mt_": "8464.14",
+    "availability_in_mt_": "3129.24",
+    "id": 1561
+  },
+  {
+    "_year": "2016-2017",
+    "month": "August",
+    "product": "SSP",
+    "state": "Bihar",
+    "requirement_in_mt_": "6449.33",
+    "availability_in_mt_": "5881.12",
+    "id": 1562
+  },
+  {
+    "_year": "2019-2020",
+    "month": "September",
+    "product": "SSP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "7248.49",
+    "availability_in_mt_": "190.37",
+    "id": 1563
+  },
+  {
+    "_year": "2019-2020",
+    "month": "November",
+    "product": "MAP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "4095.21",
+    "availability_in_mt_": "6777.56",
+    "id": 1564
+  },
+  {
+    "_year": "2017-2018",
+    "month": "April",
+    "product": "Urea",
+    "state": "Haryana",
+    "requirement_in_mt_": "9198.30",
+    "availability_in_mt_": "677.38",
+    "id": 1565
+  },
+  {
+    "_year": "2015-2016",
+    "month": "November",
+    "product": "SSP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "6524.29",
+    "availability_in_mt_": "4643.64",
+    "id": 1566
+  },
+  {
+    "_year": "2019-2020",
+    "month": "March",
+    "product": "DAP",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "6460.97",
+    "availability_in_mt_": "8598.78",
+    "id": 1567
+  },
+  {
+    "_year": "2018-2019",
+    "month": "June",
+    "product": "MAP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "5655.31",
+    "availability_in_mt_": "4899.76",
+    "id": 1568
+  },
+  {
+    "_year": "2017-2018",
+    "month": "June",
+    "product": "DAP",
+    "state": "Haryana",
+    "requirement_in_mt_": "4440.27",
+    "availability_in_mt_": "9795.97",
+    "id": 1569
+  },
+  {
+    "_year": "2018-2019",
+    "month": "September",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "332.99",
+    "availability_in_mt_": "9669.49",
+    "id": 1570
+  },
+  {
+    "_year": "2019-2020",
+    "month": "June",
+    "product": "MOP",
+    "state": "Gujarat",
+    "requirement_in_mt_": "5103.64",
+    "availability_in_mt_": "6682.68",
+    "id": 1571
+  },
+  {
+    "_year": "2017-2018",
+    "month": "November",
+    "product": "Urea",
+    "state": "Tamil Nadu",
+    "requirement_in_mt_": "5129.67",
+    "availability_in_mt_": "6919.82",
+    "id": 1572
+  },
+  {
+    "_year": "2015-2016",
+    "month": "August",
+    "product": "MOP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "3310.39",
+    "availability_in_mt_": "5168.92",
+    "id": 1573
+  },
+  {
+    "_year": "2017-2018",
+    "month": "December",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1117.83",
+    "availability_in_mt_": "5980.39",
+    "id": 1574
+  },
+  {
+    "_year": "2015-2016",
+    "month": "February",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8986.19",
+    "availability_in_mt_": "9496.77",
+    "id": 1575
+  },
+  {
+    "_year": "2019-2020",
+    "month": "April",
+    "product": "MAP",
+    "state": "Uttar Pradesh",
+    "requirement_in_mt_": "7144.84",
+    "availability_in_mt_": "6399.39",
+    "id": 1576
+  },
+  {
+    "_year": "2019-2020",
+    "month": "June",
+    "product": "SSP",
+    "state": "Punjab",
+    "requirement_in_mt_": "9213.65",
+    "availability_in_mt_": "7885.88",
+    "id": 1577
+  },
+  {
+    "_year": "2016-2017",
+    "month": "June",
+    "product": "MOP",
+    "state": "West Bengal",
+    "requirement_in_mt_": "5389.33",
+    "availability_in_mt_": "6361.48",
+    "id": 1578
+  },
+  {
+    "_year": "2017-2018",
+    "month": "September",
+    "product": "SSP",
+    "state": "Punjab",
+    "requirement_in_mt_": "6842.53",
+    "availability_in_mt_": "9062.86",
+    "id": 1579
+  },
+  {
+    "_year": "2019-2020",
+    "month": "December",
+    "product": "MAP",
+    "state": "Bihar",
+    "requirement_in_mt_": "9693.17",
+    "availability_in_mt_": "4607.28",
+    "id": 1580
+  },
+  {
+    "_year": "2019-2020",
+    "month": "May",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1725.35",
+    "availability_in_mt_": "6337.70",
+    "id": 1189
+  },
+  {
+    "_year": "2015-2016",
+    "month": "May",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4183.10",
+    "availability_in_mt_": "8581.69",
+    "id": 1198
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5343.27",
+    "availability_in_mt_": "2032.43",
+    "id": 1202
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "15.74",
+    "availability_in_mt_": "9779.03",
+    "id": 1210
+  },
+  {
+    "_year": "2019-2020",
+    "month": "July",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1627.87",
+    "availability_in_mt_": "6734.28",
+    "id": 1215
+  },
+  {
+    "_year": "2019-2020",
+    "month": "September",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5985.42",
+    "availability_in_mt_": "5742.00",
+    "id": 1220
+  },
+  {
+    "_year": "2018-2019",
+    "month": "May",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9480.21",
+    "availability_in_mt_": "3512.19",
+    "id": 1231
+  },
+  {
+    "_year": "2017-2018",
+    "month": "August",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5980.34",
+    "availability_in_mt_": "4513.16",
+    "id": 1233
+  },
+  {
+    "_year": "2017-2018",
+    "month": "May",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4515.88",
+    "availability_in_mt_": "2856.73",
+    "id": 1278
+  },
+  {
+    "_year": "2018-2019",
+    "month": "March",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7733.71",
+    "availability_in_mt_": "8772.87",
+    "id": 1280
+  },
+  {
+    "_year": "2016-2017",
+    "month": "April",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7356.76",
+    "availability_in_mt_": "7956.65",
+    "id": 1290
+  },
+  {
+    "_year": "2016-2017",
+    "month": "May",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "988.69",
+    "availability_in_mt_": "4917.38",
+    "id": 1306
+  },
+  {
+    "_year": "2015-2016",
+    "month": "November",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3651.60",
+    "availability_in_mt_": "7698.42",
+    "id": 1314
+  },
+  {
+    "_year": "2015-2016",
+    "month": "June",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1924.20",
+    "availability_in_mt_": "992.49",
+    "id": 1323
+  },
+  {
+    "_year": "2015-2016",
+    "month": "April",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5232.44",
+    "availability_in_mt_": "4865.03",
+    "id": 1330
+  },
+  {
+    "_year": "2015-2016",
+    "month": "September",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3852.20",
+    "availability_in_mt_": "9698.22",
+    "id": 1338
+  },
+  {
+    "_year": "2016-2017",
+    "month": "April",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "670.99",
+    "availability_in_mt_": "8608.41",
+    "id": 1361
+  },
+  {
+    "_year": "2017-2018",
+    "month": "July",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2384.06",
+    "availability_in_mt_": "176.21",
+    "id": 1402
+  },
+  {
+    "_year": "2019-2020",
+    "month": "March",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9428.64",
+    "availability_in_mt_": "7457.86",
+    "id": 1418
+  },
+  {
+    "_year": "2016-2017",
+    "month": "June",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7045.53",
+    "availability_in_mt_": "280.15",
+    "id": 1424
+  },
+  {
+    "_year": "2017-2018",
+    "month": "October",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4380.26",
+    "availability_in_mt_": "2029.60",
+    "id": 1425
+  },
+  {
+    "_year": "2016-2017",
+    "month": "May",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6776.66",
+    "availability_in_mt_": "7056.07",
+    "id": 1427
+  },
+  {
+    "_year": "2015-2016",
+    "month": "December",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3313.45",
+    "availability_in_mt_": "6238.23",
+    "id": 1430
+  },
+  {
+    "_year": "2018-2019",
+    "month": "September",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2129.59",
+    "availability_in_mt_": "1182.52",
+    "id": 1432
+  },
+  {
+    "_year": "2018-2019",
+    "month": "May",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1697.71",
+    "availability_in_mt_": "9244.15",
+    "id": 1435
+  },
+  {
+    "_year": "2017-2018",
+    "month": "December",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8936.75",
+    "availability_in_mt_": "5255.64",
+    "id": 1443
+  },
+  {
+    "_year": "2019-2020",
+    "month": "December",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2503.94",
+    "availability_in_mt_": "7096.86",
+    "id": 1452
+  },
+  {
+    "_year": "2015-2016",
+    "month": "September",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7830.04",
+    "availability_in_mt_": "1304.14",
+    "id": 1470
+  },
+  {
+    "_year": "2019-2020",
+    "month": "March",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1576.30",
+    "availability_in_mt_": "9147.54",
+    "id": 1479
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2862.46",
+    "availability_in_mt_": "1463.47",
+    "id": 1484
+  },
+  {
+    "_year": "2019-2020",
+    "month": "April",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3879.69",
+    "availability_in_mt_": "7980.90",
+    "id": 1500
+  },
+  {
+    "_year": "2015-2016",
+    "month": "October",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7054.87",
+    "availability_in_mt_": "2648.64",
+    "id": 1507
+  },
+  {
+    "_year": "2015-2016",
+    "month": "September",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4878.29",
+    "availability_in_mt_": "6377.04",
+    "id": 1509
+  },
+  {
+    "_year": "2016-2017",
+    "month": "June",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "41.71",
+    "availability_in_mt_": "809.70",
+    "id": 1532
+  },
+  {
+    "_year": "2016-2017",
+    "month": "June",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5641.96",
+    "availability_in_mt_": "609.57",
+    "id": 1538
+  },
+  {
+    "_year": "2018-2019",
+    "month": "September",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2506.23",
+    "availability_in_mt_": "4927.24",
+    "id": 1553
+  },
+  {
+    "_year": "2018-2019",
+    "month": "September",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "332.99",
+    "availability_in_mt_": "9669.49",
+    "id": 1570
+  },
+  {
+    "_year": "2017-2018",
+    "month": "December",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1117.83",
+    "availability_in_mt_": "5980.39",
+    "id": 1574
+  },
+  {
+    "_year": "2015-2016",
+    "month": "February",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8986.19",
+    "availability_in_mt_": "9496.77",
+    "id": 1575
+  },
+  {
+    "_year": "2019-2020",
+    "month": "September",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4941.88",
+    "availability_in_mt_": "8672.52",
+    "id": 1220
+  },
+  {
+    "_year": "2015-2016",
+    "month": "July",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9956.83",
+    "availability_in_mt_": "4648.89",
+    "id": 1221
+  },
+  {
+    "_year": "2017-2018",
+    "month": "April",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3659.81",
+    "availability_in_mt_": "6854.65",
+    "id": 1222
+  },
+  {
+    "_year": "2016-2017",
+    "month": "April",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2229.84",
+    "availability_in_mt_": "3581.20",
+    "id": 1223
+  },
+  {
+    "_year": "2018-2019",
+    "month": "April",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6019.78",
+    "availability_in_mt_": "7945.32",
+    "id": 1224
+  },
+  {
+    "_year": "2017-2018",
+    "month": "May",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6557.84",
+    "availability_in_mt_": "8232.21",
+    "id": 1225
+  },
+  {
+    "_year": "2015-2016",
+    "month": "August",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7931.42",
+    "availability_in_mt_": "2587.32",
+    "id": 1226
+  },
+  {
+    "_year": "2015-2016",
+    "month": "October",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3052.38",
+    "availability_in_mt_": "6273.44",
+    "id": 1227
+  },
+  {
+    "_year": "2015-2016",
+    "month": "August",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7683.77",
+    "availability_in_mt_": "3338.26",
+    "id": 1228
+  },
+  {
+    "_year": "2017-2018",
+    "month": "July",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4614.62",
+    "availability_in_mt_": "3523.38",
+    "id": 1229
+  },
+  {
+    "_year": "2017-2018",
+    "month": "February",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6332.68",
+    "availability_in_mt_": "5375.83",
+    "id": 1230
+  },
+  {
+    "_year": "2019-2020",
+    "month": "July",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "540.43",
+    "availability_in_mt_": "2981.00",
+    "id": 1231
+  },
+  {
+    "_year": "2017-2018",
+    "month": "January",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "694.21",
+    "availability_in_mt_": "231.53",
+    "id": 1232
+  },
+  {
+    "_year": "2016-2017",
+    "month": "March",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2451.23",
+    "availability_in_mt_": "8687.28",
+    "id": 1233
+  },
+  {
+    "_year": "2016-2017",
+    "month": "June",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "72.49",
+    "availability_in_mt_": "9069.06",
+    "id": 1234
+  },
+  {
+    "_year": "2018-2019",
+    "month": "June",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9227.53",
+    "availability_in_mt_": "2844.53",
+    "id": 1235
+  },
+  {
+    "_year": "2015-2016",
+    "month": "January",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2805.69",
+    "availability_in_mt_": "5376.60",
+    "id": 1236
+  },
+  {
+    "_year": "2018-2019",
+    "month": "March",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4171.07",
+    "availability_in_mt_": "9568.16",
+    "id": 1237
+  },
+  {
+    "_year": "2017-2018",
+    "month": "November",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3477.75",
+    "availability_in_mt_": "5963.77",
+    "id": 1238
+  },
+  {
+    "_year": "2017-2018",
+    "month": "December",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9723.47",
+    "availability_in_mt_": "4118.04",
+    "id": 1239
+  },
+  {
+    "_year": "2017-2018",
+    "month": "May",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9570.85",
+    "availability_in_mt_": "2567.99",
+    "id": 1240
+  },
+  {
+    "_year": "2016-2017",
+    "month": "August",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8539.84",
+    "availability_in_mt_": "861.26",
+    "id": 1241
+  },
+  {
+    "_year": "2019-2020",
+    "month": "June",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6582.67",
+    "availability_in_mt_": "6197.24",
+    "id": 1242
+  },
+  {
+    "_year": "2018-2019",
+    "month": "January",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9652.64",
+    "availability_in_mt_": "4544.59",
+    "id": 1243
+  },
+  {
+    "_year": "2018-2019",
+    "month": "January",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8815.30",
+    "availability_in_mt_": "5866.08",
+    "id": 1244
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7005.53",
+    "availability_in_mt_": "6370.17",
+    "id": 1245
+  },
+  {
+    "_year": "2019-2020",
+    "month": "January",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6484.35",
+    "availability_in_mt_": "5629.91",
+    "id": 1246
+  },
+  {
+    "_year": "2019-2020",
+    "month": "March",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5440.66",
+    "availability_in_mt_": "8275.08",
+    "id": 1247
+  },
+  {
+    "_year": "2018-2019",
+    "month": "October",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3471.35",
+    "availability_in_mt_": "5714.19",
+    "id": 1248
+  },
+  {
+    "_year": "2018-2019",
+    "month": "July",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "581.70",
+    "availability_in_mt_": "6702.40",
+    "id": 1249
+  },
+  {
+    "_year": "2018-2019",
+    "month": "April",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2441.91",
+    "availability_in_mt_": "3631.77",
+    "id": 1250
+  },
+  {
+    "_year": "2016-2017",
+    "month": "December",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8520.65",
+    "availability_in_mt_": "2644.16",
+    "id": 1251
+  },
+  {
+    "_year": "2019-2020",
+    "month": "June",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1520.01",
+    "availability_in_mt_": "8540.08",
+    "id": 1252
+  },
+  {
+    "_year": "2018-2019",
+    "month": "January",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3742.67",
+    "availability_in_mt_": "2002.64",
+    "id": 1253
+  },
+  {
+    "_year": "2018-2019",
+    "month": "November",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9241.58",
+    "availability_in_mt_": "4219.58",
+    "id": 1254
+  },
+  {
+    "_year": "2015-2016",
+    "month": "October",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6691.67",
+    "availability_in_mt_": "604.53",
+    "id": 1255
+  },
+  {
+    "_year": "2018-2019",
+    "month": "November",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6917.86",
+    "availability_in_mt_": "1261.83",
+    "id": 1256
+  },
+  {
+    "_year": "2015-2016",
+    "month": "June",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5901.96",
+    "availability_in_mt_": "4312.61",
+    "id": 1257
+  },
+  {
+    "_year": "2017-2018",
+    "month": "September",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8160.12",
+    "availability_in_mt_": "4004.75",
+    "id": 1258
+  },
+  {
+    "_year": "2017-2018",
+    "month": "November",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6923.47",
+    "availability_in_mt_": "1385.92",
+    "id": 1259
+  },
+  {
+    "_year": "2019-2020",
+    "month": "May",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3202.16",
+    "availability_in_mt_": "5772.04",
+    "id": 1260
+  },
+  {
+    "_year": "2015-2016",
+    "month": "May",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "919.18",
+    "availability_in_mt_": "2526.67",
+    "id": 1261
+  },
+  {
+    "_year": "2016-2017",
+    "month": "June",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8798.94",
+    "availability_in_mt_": "3202.93",
+    "id": 1262
+  },
+  {
+    "_year": "2019-2020",
+    "month": "February",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1398.25",
+    "availability_in_mt_": "2114.27",
+    "id": 1263
+  },
+  {
+    "_year": "2018-2019",
+    "month": "January",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3757.17",
+    "availability_in_mt_": "6443.01",
+    "id": 1264
+  },
+  {
+    "_year": "2015-2016",
+    "month": "June",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8076.20",
+    "availability_in_mt_": "9479.73",
+    "id": 1265
+  },
+  {
+    "_year": "2018-2019",
+    "month": "October",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "515.58",
+    "availability_in_mt_": "7711.74",
+    "id": 1266
+  },
+  {
+    "_year": "2016-2017",
+    "month": "April",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "875.58",
+    "availability_in_mt_": "6627.87",
+    "id": 1267
+  },
+  {
+    "_year": "2018-2019",
+    "month": "June",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9443.23",
+    "availability_in_mt_": "2244.83",
+    "id": 1268
+  },
+  {
+    "_year": "2015-2016",
+    "month": "August",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8727.98",
+    "availability_in_mt_": "6695.30",
+    "id": 1269
+  },
+  {
+    "_year": "2018-2019",
+    "month": "September",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2075.18",
+    "availability_in_mt_": "3308.88",
+    "id": 1270
+  },
+  {
+    "_year": "2015-2016",
+    "month": "March",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7244.58",
+    "availability_in_mt_": "4001.25",
+    "id": 1271
+  },
+  {
+    "_year": "2017-2018",
+    "month": "February",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2029.30",
+    "availability_in_mt_": "2989.33",
+    "id": 1272
+  },
+  {
+    "_year": "2018-2019",
+    "month": "January",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7108.14",
+    "availability_in_mt_": "8896.61",
+    "id": 1273
+  },
+  {
+    "_year": "2015-2016",
+    "month": "February",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4672.37",
+    "availability_in_mt_": "8428.46",
+    "id": 1274
+  },
+  {
+    "_year": "2017-2018",
+    "month": "October",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3524.05",
+    "availability_in_mt_": "4384.34",
+    "id": 1275
+  },
+  {
+    "_year": "2018-2019",
+    "month": "June",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3659.86",
+    "availability_in_mt_": "5940.87",
+    "id": 1276
+  },
+  {
+    "_year": "2018-2019",
+    "month": "October",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4726.29",
+    "availability_in_mt_": "9296.33",
+    "id": 1277
+  },
+  {
+    "_year": "2018-2019",
+    "month": "February",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3682.73",
+    "availability_in_mt_": "6569.31",
+    "id": 1278
+  },
+  {
+    "_year": "2018-2019",
+    "month": "April",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5094.52",
+    "availability_in_mt_": "8431.08",
+    "id": 1279
+  },
+  {
+    "_year": "2016-2017",
+    "month": "March",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1835.61",
+    "availability_in_mt_": "996.58",
+    "id": 1280
+  },
+  {
+    "_year": "2017-2018",
+    "month": "October",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1535.13",
+    "availability_in_mt_": "7790.66",
+    "id": 1281
+  },
+  {
+    "_year": "2019-2020",
+    "month": "April",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8269.78",
+    "availability_in_mt_": "4399.26",
+    "id": 1282
+  },
+  {
+    "_year": "2015-2016",
+    "month": "February",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2078.56",
+    "availability_in_mt_": "5267.44",
+    "id": 1283
+  },
+  {
+    "_year": "2017-2018",
+    "month": "July",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5815.96",
+    "availability_in_mt_": "2547.00",
+    "id": 1284
+  },
+  {
+    "_year": "2015-2016",
+    "month": "December",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2515.04",
+    "availability_in_mt_": "3928.28",
+    "id": 1285
+  },
+  {
+    "_year": "2019-2020",
+    "month": "July",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2765.58",
+    "availability_in_mt_": "8203.16",
+    "id": 1286
+  },
+  {
+    "_year": "2018-2019",
+    "month": "November",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5892.27",
+    "availability_in_mt_": "4928.55",
+    "id": 1287
+  },
+  {
+    "_year": "2019-2020",
+    "month": "February",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3751.42",
+    "availability_in_mt_": "3845.46",
+    "id": 1288
+  },
+  {
+    "_year": "2019-2020",
+    "month": "March",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3132.39",
+    "availability_in_mt_": "3794.75",
+    "id": 1289
+  },
+  {
+    "_year": "2018-2019",
+    "month": "December",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6584.52",
+    "availability_in_mt_": "155.87",
+    "id": 1290
+  },
+  {
+    "_year": "2016-2017",
+    "month": "September",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5783.24",
+    "availability_in_mt_": "8507.06",
+    "id": 1291
+  },
+  {
+    "_year": "2017-2018",
+    "month": "September",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4490.34",
+    "availability_in_mt_": "6050.65",
+    "id": 1292
+  },
+  {
+    "_year": "2018-2019",
+    "month": "October",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "444.72",
+    "availability_in_mt_": "1516.26",
+    "id": 1293
+  },
+  {
+    "_year": "2018-2019",
+    "month": "December",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "104.87",
+    "availability_in_mt_": "2420.02",
+    "id": 1294
+  },
+  {
+    "_year": "2016-2017",
+    "month": "May",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3648.27",
+    "availability_in_mt_": "3442.34",
+    "id": 1295
+  },
+  {
+    "_year": "2016-2017",
+    "month": "August",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7670.25",
+    "availability_in_mt_": "6761.27",
+    "id": 1296
+  },
+  {
+    "_year": "2016-2017",
+    "month": "July",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4628.68",
+    "availability_in_mt_": "6377.60",
+    "id": 1297
+  },
+  {
+    "_year": "2017-2018",
+    "month": "July",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5695.80",
+    "availability_in_mt_": "1659.90",
+    "id": 1298
+  },
+  {
+    "_year": "2016-2017",
+    "month": "January",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4531.26",
+    "availability_in_mt_": "9560.60",
+    "id": 1299
+  },
+  {
+    "_year": "2018-2019",
+    "month": "March",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2572.92",
+    "availability_in_mt_": "3703.61",
+    "id": 1300
+  },
+  {
+    "_year": "2019-2020",
+    "month": "January",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1781.14",
+    "availability_in_mt_": "7210.21",
+    "id": 1301
+  },
+  {
+    "_year": "2015-2016",
+    "month": "July",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "700.80",
+    "availability_in_mt_": "4965.87",
+    "id": 1302
+  },
+  {
+    "_year": "2018-2019",
+    "month": "January",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1005.82",
+    "availability_in_mt_": "929.69",
+    "id": 1303
+  },
+  {
+    "_year": "2015-2016",
+    "month": "July",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7752.59",
+    "availability_in_mt_": "4184.51",
+    "id": 1304
+  },
+  {
+    "_year": "2015-2016",
+    "month": "August",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1794.14",
+    "availability_in_mt_": "6901.52",
+    "id": 1305
+  },
+  {
+    "_year": "2015-2016",
+    "month": "April",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3364.78",
+    "availability_in_mt_": "9987.97",
+    "id": 1306
+  },
+  {
+    "_year": "2018-2019",
+    "month": "September",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7601.61",
+    "availability_in_mt_": "559.43",
+    "id": 1307
+  },
+  {
+    "_year": "2016-2017",
+    "month": "April",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1039.71",
+    "availability_in_mt_": "8078.98",
+    "id": 1308
+  },
+  {
+    "_year": "2019-2020",
+    "month": "February",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9952.29",
+    "availability_in_mt_": "2800.94",
+    "id": 1309
+  },
+  {
+    "_year": "2017-2018",
+    "month": "August",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5621.86",
+    "availability_in_mt_": "6689.51",
+    "id": 1310
+  },
+  {
+    "_year": "2017-2018",
+    "month": "April",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6799.21",
+    "availability_in_mt_": "7018.05",
+    "id": 1311
+  },
+  {
+    "_year": "2019-2020",
+    "month": "January",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2229.55",
+    "availability_in_mt_": "5892.89",
+    "id": 1312
+  },
+  {
+    "_year": "2015-2016",
+    "month": "June",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5826.36",
+    "availability_in_mt_": "7619.59",
+    "id": 1313
+  },
+  {
+    "_year": "2018-2019",
+    "month": "August",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3246.63",
+    "availability_in_mt_": "7873.50",
+    "id": 1314
+  },
+  {
+    "_year": "2015-2016",
+    "month": "January",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3606.43",
+    "availability_in_mt_": "523.73",
+    "id": 1315
+  },
+  {
+    "_year": "2016-2017",
+    "month": "September",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4075.66",
+    "availability_in_mt_": "2620.74",
+    "id": 1316
+  },
+  {
+    "_year": "2016-2017",
+    "month": "March",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8393.90",
+    "availability_in_mt_": "4287.06",
+    "id": 1317
+  },
+  {
+    "_year": "2015-2016",
+    "month": "September",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4202.40",
+    "availability_in_mt_": "8509.90",
+    "id": 1318
+  },
+  {
+    "_year": "2018-2019",
+    "month": "June",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8464.68",
+    "availability_in_mt_": "8013.08",
+    "id": 1319
+  },
+  {
+    "_year": "2016-2017",
+    "month": "February",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3919.79",
+    "availability_in_mt_": "9214.43",
+    "id": 1320
+  },
+  {
+    "_year": "2019-2020",
+    "month": "February",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2490.85",
+    "availability_in_mt_": "9620.03",
+    "id": 1321
+  },
+  {
+    "_year": "2017-2018",
+    "month": "August",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9791.41",
+    "availability_in_mt_": "5696.25",
+    "id": 1322
+  },
+  {
+    "_year": "2018-2019",
+    "month": "May",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8466.88",
+    "availability_in_mt_": "6377.35",
+    "id": 1323
+  },
+  {
+    "_year": "2017-2018",
+    "month": "February",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9550.31",
+    "availability_in_mt_": "1775.20",
+    "id": 1324
+  },
+  {
+    "_year": "2017-2018",
+    "month": "May",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3532.47",
+    "availability_in_mt_": "7945.91",
+    "id": 1325
+  },
+  {
+    "_year": "2015-2016",
+    "month": "November",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1309.12",
+    "availability_in_mt_": "7718.45",
+    "id": 1326
+  },
+  {
+    "_year": "2019-2020",
+    "month": "October",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5273.79",
+    "availability_in_mt_": "142.56",
+    "id": 1327
+  },
+  {
+    "_year": "2019-2020",
+    "month": "April",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5888.86",
+    "availability_in_mt_": "7992.91",
+    "id": 1328
+  },
+  {
+    "_year": "2016-2017",
+    "month": "September",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "427.65",
+    "availability_in_mt_": "9540.01",
+    "id": 1329
+  },
+  {
+    "_year": "2015-2016",
+    "month": "July",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5454.46",
+    "availability_in_mt_": "7163.11",
+    "id": 1330
+  },
+  {
+    "_year": "2015-2016",
+    "month": "May",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7387.26",
+    "availability_in_mt_": "4294.92",
+    "id": 1331
+  },
+  {
+    "_year": "2019-2020",
+    "month": "August",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2975.20",
+    "availability_in_mt_": "1632.95",
+    "id": 1332
+  },
+  {
+    "_year": "2019-2020",
+    "month": "November",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "508.34",
+    "availability_in_mt_": "4409.32",
+    "id": 1333
+  },
+  {
+    "_year": "2019-2020",
+    "month": "November",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3467.39",
+    "availability_in_mt_": "794.86",
+    "id": 1334
+  },
+  {
+    "_year": "2015-2016",
+    "month": "February",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1995.42",
+    "availability_in_mt_": "7297.47",
+    "id": 1335
+  },
+  {
+    "_year": "2019-2020",
+    "month": "June",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3824.35",
+    "availability_in_mt_": "3212.73",
+    "id": 1336
+  },
+  {
+    "_year": "2015-2016",
+    "month": "June",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2469.34",
+    "availability_in_mt_": "6891.39",
+    "id": 1337
+  },
+  {
+    "_year": "2017-2018",
+    "month": "July",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7939.90",
+    "availability_in_mt_": "6760.65",
+    "id": 1338
+  },
+  {
+    "_year": "2015-2016",
+    "month": "October",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1014.37",
+    "availability_in_mt_": "5294.24",
+    "id": 1339
+  },
+  {
+    "_year": "2016-2017",
+    "month": "February",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1812.43",
+    "availability_in_mt_": "9507.08",
+    "id": 1340
+  },
+  {
+    "_year": "2019-2020",
+    "month": "June",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9343.48",
+    "availability_in_mt_": "665.38",
+    "id": 1341
+  },
+  {
+    "_year": "2017-2018",
+    "month": "July",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5715.51",
+    "availability_in_mt_": "8638.91",
+    "id": 1342
+  },
+  {
+    "_year": "2016-2017",
+    "month": "July",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1579.69",
+    "availability_in_mt_": "5489.81",
+    "id": 1343
+  },
+  {
+    "_year": "2018-2019",
+    "month": "June",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "854.34",
+    "availability_in_mt_": "8539.54",
+    "id": 1344
+  },
+  {
+    "_year": "2019-2020",
+    "month": "September",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7788.07",
+    "availability_in_mt_": "1202.60",
+    "id": 1345
+  },
+  {
+    "_year": "2018-2019",
+    "month": "September",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5762.54",
+    "availability_in_mt_": "3275.91",
+    "id": 1346
+  },
+  {
+    "_year": "2015-2016",
+    "month": "January",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6714.42",
+    "availability_in_mt_": "8164.03",
+    "id": 1347
+  },
+  {
+    "_year": "2018-2019",
+    "month": "October",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6107.22",
+    "availability_in_mt_": "686.53",
+    "id": 1348
+  },
+  {
+    "_year": "2015-2016",
+    "month": "January",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3460.63",
+    "availability_in_mt_": "7622.67",
+    "id": 1349
+  },
+  {
+    "_year": "2016-2017",
+    "month": "September",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7660.39",
+    "availability_in_mt_": "2444.28",
+    "id": 1350
+  },
+  {
+    "_year": "2016-2017",
+    "month": "April",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3987.43",
+    "availability_in_mt_": "1017.75",
+    "id": 1351
+  },
+  {
+    "_year": "2019-2020",
+    "month": "January",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7449.24",
+    "availability_in_mt_": "4569.50",
+    "id": 1352
+  },
+  {
+    "_year": "2019-2020",
+    "month": "April",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1369.39",
+    "availability_in_mt_": "4836.72",
+    "id": 1353
+  },
+  {
+    "_year": "2015-2016",
+    "month": "January",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3195.24",
+    "availability_in_mt_": "3838.36",
+    "id": 1354
+  },
+  {
+    "_year": "2019-2020",
+    "month": "February",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4471.87",
+    "availability_in_mt_": "3713.65",
+    "id": 1355
+  },
+  {
+    "_year": "2016-2017",
+    "month": "September",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6733.54",
+    "availability_in_mt_": "8820.43",
+    "id": 1356
+  },
+  {
+    "_year": "2015-2016",
+    "month": "October",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8909.43",
+    "availability_in_mt_": "9747.00",
+    "id": 1357
+  },
+  {
+    "_year": "2019-2020",
+    "month": "January",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9217.23",
+    "availability_in_mt_": "7059.53",
+    "id": 1358
+  },
+  {
+    "_year": "2018-2019",
+    "month": "March",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3408.19",
+    "availability_in_mt_": "6313.70",
+    "id": 1359
+  },
+  {
+    "_year": "2018-2019",
+    "month": "July",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6746.74",
+    "availability_in_mt_": "7305.65",
+    "id": 1360
+  },
+  {
+    "_year": "2016-2017",
+    "month": "June",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9254.57",
+    "availability_in_mt_": "3884.32",
+    "id": 1361
+  },
+  {
+    "_year": "2017-2018",
+    "month": "June",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8464.80",
+    "availability_in_mt_": "9697.72",
+    "id": 1362
+  },
+  {
+    "_year": "2015-2016",
+    "month": "December",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4827.29",
+    "availability_in_mt_": "3112.60",
+    "id": 1363
+  },
+  {
+    "_year": "2019-2020",
+    "month": "June",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4850.16",
+    "availability_in_mt_": "963.69",
+    "id": 1364
+  },
+  {
+    "_year": "2016-2017",
+    "month": "April",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5818.41",
+    "availability_in_mt_": "481.67",
+    "id": 1365
+  },
+  {
+    "_year": "2016-2017",
+    "month": "October",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3854.99",
+    "availability_in_mt_": "4462.64",
+    "id": 1366
+  },
+  {
+    "_year": "2016-2017",
+    "month": "November",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7638.77",
+    "availability_in_mt_": "3537.60",
+    "id": 1367
+  },
+  {
+    "_year": "2017-2018",
+    "month": "July",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8059.02",
+    "availability_in_mt_": "8781.98",
+    "id": 1368
+  },
+  {
+    "_year": "2017-2018",
+    "month": "March",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2086.81",
+    "availability_in_mt_": "7524.35",
+    "id": 1369
+  },
+  {
+    "_year": "2019-2020",
+    "month": "November",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1044.34",
+    "availability_in_mt_": "9820.86",
+    "id": 1370
+  },
+  {
+    "_year": "2018-2019",
+    "month": "March",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6917.00",
+    "availability_in_mt_": "1030.36",
+    "id": 1371
+  },
+  {
+    "_year": "2018-2019",
+    "month": "February",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9402.98",
+    "availability_in_mt_": "3749.89",
+    "id": 1372
+  },
+  {
+    "_year": "2017-2018",
+    "month": "May",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2058.59",
+    "availability_in_mt_": "8293.13",
+    "id": 1373
+  },
+  {
+    "_year": "2018-2019",
+    "month": "October",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "125.04",
+    "availability_in_mt_": "6933.14",
+    "id": 1374
+  },
+  {
+    "_year": "2019-2020",
+    "month": "June",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8174.36",
+    "availability_in_mt_": "8640.62",
+    "id": 1375
+  },
+  {
+    "_year": "2018-2019",
+    "month": "January",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8419.18",
+    "availability_in_mt_": "7947.55",
+    "id": 1376
+  },
+  {
+    "_year": "2019-2020",
+    "month": "January",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7027.09",
+    "availability_in_mt_": "5602.60",
+    "id": 1377
+  },
+  {
+    "_year": "2019-2020",
+    "month": "July",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7763.44",
+    "availability_in_mt_": "5788.10",
+    "id": 1378
+  },
+  {
+    "_year": "2019-2020",
+    "month": "February",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6036.73",
+    "availability_in_mt_": "3630.90",
+    "id": 1379
+  },
+  {
+    "_year": "2019-2020",
+    "month": "September",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6257.45",
+    "availability_in_mt_": "242.27",
+    "id": 1380
+  },
+  {
+    "_year": "2018-2019",
+    "month": "January",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4395.19",
+    "availability_in_mt_": "1883.66",
+    "id": 1381
+  },
+  {
+    "_year": "2018-2019",
+    "month": "April",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9135.63",
+    "availability_in_mt_": "6263.44",
+    "id": 1382
+  },
+  {
+    "_year": "2015-2016",
+    "month": "November",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "390.36",
+    "availability_in_mt_": "8480.86",
+    "id": 1383
+  },
+  {
+    "_year": "2017-2018",
+    "month": "October",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5781.33",
+    "availability_in_mt_": "3358.94",
+    "id": 1384
+  },
+  {
+    "_year": "2018-2019",
+    "month": "January",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5141.16",
+    "availability_in_mt_": "1219.81",
+    "id": 1385
+  },
+  {
+    "_year": "2015-2016",
+    "month": "April",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8248.38",
+    "availability_in_mt_": "4618.68",
+    "id": 1386
+  },
+  {
+    "_year": "2015-2016",
+    "month": "April",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2412.25",
+    "availability_in_mt_": "7910.22",
+    "id": 1387
+  },
+  {
+    "_year": "2015-2016",
+    "month": "March",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4581.34",
+    "availability_in_mt_": "1545.74",
+    "id": 1388
+  },
+  {
+    "_year": "2019-2020",
+    "month": "March",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8539.26",
+    "availability_in_mt_": "8201.01",
+    "id": 1389
+  },
+  {
+    "_year": "2016-2017",
+    "month": "January",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2957.37",
+    "availability_in_mt_": "2363.62",
+    "id": 1390
+  },
+  {
+    "_year": "2015-2016",
+    "month": "April",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3337.95",
+    "availability_in_mt_": "5974.26",
+    "id": 1391
+  },
+  {
+    "_year": "2016-2017",
+    "month": "February",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2290.72",
+    "availability_in_mt_": "3421.78",
+    "id": 1392
+  },
+  {
+    "_year": "2017-2018",
+    "month": "September",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2318.94",
+    "availability_in_mt_": "8983.02",
+    "id": 1393
+  },
+  {
+    "_year": "2017-2018",
+    "month": "September",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1970.00",
+    "availability_in_mt_": "2852.44",
+    "id": 1394
+  },
+  {
+    "_year": "2017-2018",
+    "month": "December",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8576.19",
+    "availability_in_mt_": "9632.97",
+    "id": 1395
+  },
+  {
+    "_year": "2015-2016",
+    "month": "November",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "37.60",
+    "availability_in_mt_": "6799.18",
+    "id": 1396
+  },
+  {
+    "_year": "2016-2017",
+    "month": "March",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8651.37",
+    "availability_in_mt_": "3988.81",
+    "id": 1397
+  },
+  {
+    "_year": "2017-2018",
+    "month": "April",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6606.49",
+    "availability_in_mt_": "3686.39",
+    "id": 1398
+  },
+  {
+    "_year": "2018-2019",
+    "month": "April",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5269.13",
+    "availability_in_mt_": "1592.32",
+    "id": 1399
+  },
+  {
+    "_year": "2016-2017",
+    "month": "December",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2823.91",
+    "availability_in_mt_": "1585.61",
+    "id": 1400
+  },
+  {
+    "_year": "2019-2020",
+    "month": "December",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4072.00",
+    "availability_in_mt_": "4817.60",
+    "id": 1401
+  },
+  {
+    "_year": "2018-2019",
+    "month": "July",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7724.90",
+    "availability_in_mt_": "3462.70",
+    "id": 1402
+  },
+  {
+    "_year": "2017-2018",
+    "month": "February",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7684.63",
+    "availability_in_mt_": "6782.39",
+    "id": 1403
+  },
+  {
+    "_year": "2019-2020",
+    "month": "July",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6229.40",
+    "availability_in_mt_": "8189.10",
+    "id": 1404
+  },
+  {
+    "_year": "2015-2016",
+    "month": "March",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4845.51",
+    "availability_in_mt_": "3381.65",
+    "id": 1405
+  },
+  {
+    "_year": "2018-2019",
+    "month": "April",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "447.14",
+    "availability_in_mt_": "1658.09",
+    "id": 1406
+  },
+  {
+    "_year": "2018-2019",
+    "month": "May",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9279.66",
+    "availability_in_mt_": "8955.57",
+    "id": 1407
+  },
+  {
+    "_year": "2019-2020",
+    "month": "April",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3100.24",
+    "availability_in_mt_": "9917.94",
+    "id": 1408
+  },
+  {
+    "_year": "2017-2018",
+    "month": "April",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8340.55",
+    "availability_in_mt_": "8195.89",
+    "id": 1409
+  },
+  {
+    "_year": "2016-2017",
+    "month": "May",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3025.69",
+    "availability_in_mt_": "7119.02",
+    "id": 1410
+  },
+  {
+    "_year": "2018-2019",
+    "month": "July",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8151.39",
+    "availability_in_mt_": "6467.67",
+    "id": 1411
+  },
+  {
+    "_year": "2019-2020",
+    "month": "November",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3890.19",
+    "availability_in_mt_": "3249.01",
+    "id": 1412
+  },
+  {
+    "_year": "2018-2019",
+    "month": "December",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8446.64",
+    "availability_in_mt_": "3189.29",
+    "id": 1413
+  },
+  {
+    "_year": "2018-2019",
+    "month": "November",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7769.47",
+    "availability_in_mt_": "678.20",
+    "id": 1414
+  },
+  {
+    "_year": "2015-2016",
+    "month": "November",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2708.06",
+    "availability_in_mt_": "6634.60",
+    "id": 1415
+  },
+  {
+    "_year": "2019-2020",
+    "month": "May",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6002.94",
+    "availability_in_mt_": "3914.70",
+    "id": 1416
+  },
+  {
+    "_year": "2017-2018",
+    "month": "May",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2516.12",
+    "availability_in_mt_": "4801.77",
+    "id": 1417
+  },
+  {
+    "_year": "2015-2016",
+    "month": "December",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9554.68",
+    "availability_in_mt_": "2920.40",
+    "id": 1418
+  },
+  {
+    "_year": "2017-2018",
+    "month": "May",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3724.21",
+    "availability_in_mt_": "9155.19",
+    "id": 1419
+  },
+  {
+    "_year": "2017-2018",
+    "month": "February",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8971.37",
+    "availability_in_mt_": "9791.91",
+    "id": 1420
+  },
+  {
+    "_year": "2018-2019",
+    "month": "December",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9094.89",
+    "availability_in_mt_": "2644.47",
+    "id": 1421
+  },
+  {
+    "_year": "2016-2017",
+    "month": "November",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4518.87",
+    "availability_in_mt_": "823.22",
+    "id": 1422
+  },
+  {
+    "_year": "2016-2017",
+    "month": "September",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8643.97",
+    "availability_in_mt_": "5032.57",
+    "id": 1423
+  },
+  {
+    "_year": "2018-2019",
+    "month": "November",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8741.94",
+    "availability_in_mt_": "3586.33",
+    "id": 1424
+  },
+  {
+    "_year": "2016-2017",
+    "month": "January",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5181.07",
+    "availability_in_mt_": "1418.41",
+    "id": 1425
+  },
+  {
+    "_year": "2016-2017",
+    "month": "August",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3631.94",
+    "availability_in_mt_": "8320.55",
+    "id": 1426
+  },
+  {
+    "_year": "2017-2018",
+    "month": "April",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2540.31",
+    "availability_in_mt_": "7545.72",
+    "id": 1427
+  },
+  {
+    "_year": "2018-2019",
+    "month": "December",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6396.65",
+    "availability_in_mt_": "41.82",
+    "id": 1428
+  },
+  {
+    "_year": "2015-2016",
+    "month": "August",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1007.91",
+    "availability_in_mt_": "6981.30",
+    "id": 1429
+  },
+  {
+    "_year": "2017-2018",
+    "month": "October",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "355.26",
+    "availability_in_mt_": "3739.99",
+    "id": 1430
+  },
+  {
+    "_year": "2016-2017",
+    "month": "January",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9613.50",
+    "availability_in_mt_": "9286.40",
+    "id": 1431
+  },
+  {
+    "_year": "2019-2020",
+    "month": "October",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2912.07",
+    "availability_in_mt_": "6303.99",
+    "id": 1432
+  },
+  {
+    "_year": "2016-2017",
+    "month": "June",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8672.23",
+    "availability_in_mt_": "8972.34",
+    "id": 1433
+  },
+  {
+    "_year": "2017-2018",
+    "month": "March",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4099.41",
+    "availability_in_mt_": "988.72",
+    "id": 1434
+  },
+  {
+    "_year": "2019-2020",
+    "month": "March",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7151.79",
+    "availability_in_mt_": "8580.97",
+    "id": 1435
+  },
+  {
+    "_year": "2016-2017",
+    "month": "July",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3117.50",
+    "availability_in_mt_": "7562.23",
+    "id": 1436
+  },
+  {
+    "_year": "2016-2017",
+    "month": "December",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6093.20",
+    "availability_in_mt_": "4108.46",
+    "id": 1437
+  },
+  {
+    "_year": "2015-2016",
+    "month": "December",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6940.65",
+    "availability_in_mt_": "9364.05",
+    "id": 1438
+  },
+  {
+    "_year": "2019-2020",
+    "month": "May",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2540.74",
+    "availability_in_mt_": "991.74",
+    "id": 1439
+  },
+  {
+    "_year": "2016-2017",
+    "month": "August",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1116.89",
+    "availability_in_mt_": "5456.29",
+    "id": 1440
+  },
+  {
+    "_year": "2016-2017",
+    "month": "August",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2439.50",
+    "availability_in_mt_": "945.11",
+    "id": 1441
+  },
+  {
+    "_year": "2017-2018",
+    "month": "March",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6046.27",
+    "availability_in_mt_": "7499.41",
+    "id": 1442
+  },
+  {
+    "_year": "2016-2017",
+    "month": "August",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8052.97",
+    "availability_in_mt_": "6867.91",
+    "id": 1443
+  },
+  {
+    "_year": "2016-2017",
+    "month": "September",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "3867.43",
+    "availability_in_mt_": "7813.94",
+    "id": 1444
+  },
+  {
+    "_year": "2016-2017",
+    "month": "May",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6153.88",
+    "availability_in_mt_": "94.67",
+    "id": 1445
+  },
+  {
+    "_year": "2018-2019",
+    "month": "May",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7157.18",
+    "availability_in_mt_": "8820.93",
+    "id": 1446
+  },
+  {
+    "_year": "2018-2019",
+    "month": "September",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6352.45",
+    "availability_in_mt_": "6410.81",
+    "id": 1447
+  },
+  {
+    "_year": "2017-2018",
+    "month": "October",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4791.72",
+    "availability_in_mt_": "9193.06",
+    "id": 1448
+  },
+  {
+    "_year": "2017-2018",
+    "month": "September",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9255.48",
+    "availability_in_mt_": "2745.38",
+    "id": 1449
+  },
+  {
+    "_year": "2017-2018",
+    "month": "December",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "2782.59",
+    "availability_in_mt_": "5075.96",
+    "id": 1450
+  },
+  {
+    "_year": "2016-2017",
+    "month": "October",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8398.95",
+    "availability_in_mt_": "8800.65",
+    "id": 1451
+  },
+  {
+    "_year": "2016-2017",
+    "month": "June",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4858.74",
+    "availability_in_mt_": "2204.96",
+    "id": 1452
+  },
+  {
+    "_year": "2019-2020",
+    "month": "April",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5214.02",
+    "availability_in_mt_": "3689.53",
+    "id": 1453
+  },
+  {
+    "_year": "2017-2018",
+    "month": "October",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1610.66",
+    "availability_in_mt_": "5153.44",
+    "id": 1454
+  },
+  {
+    "_year": "2016-2017",
+    "month": "August",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7906.15",
+    "availability_in_mt_": "3805.27",
+    "id": 1455
+  },
+  {
+    "_year": "2015-2016",
+    "month": "December",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "455.32",
+    "availability_in_mt_": "5145.12",
+    "id": 1456
+  },
+  {
+    "_year": "2019-2020",
+    "month": "January",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7301.42",
+    "availability_in_mt_": "2716.33",
+    "id": 1457
+  },
+  {
+    "_year": "2016-2017",
+    "month": "February",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "4236.30",
+    "availability_in_mt_": "9804.98",
+    "id": 1458
+  },
+  {
+    "_year": "2019-2020",
+    "month": "October",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7081.00",
+    "availability_in_mt_": "7982.71",
+    "id": 1459
+  },
+  {
+    "_year": "2018-2019",
+    "month": "January",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9300.60",
+    "availability_in_mt_": "5486.63",
+    "id": 1460
+  },
+  {
+    "_year": "2018-2019",
+    "month": "January",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5518.37",
+    "availability_in_mt_": "5443.63",
+    "id": 1461
+  },
+  {
+    "_year": "2018-2019",
+    "month": "December",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9785.43",
+    "availability_in_mt_": "5918.36",
+    "id": 1462
+  },
+  {
+    "_year": "2019-2020",
+    "month": "July",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6803.30",
+    "availability_in_mt_": "2028.53",
+    "id": 1463
+  },
+  {
+    "_year": "2018-2019",
+    "month": "May",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7521.59",
+    "availability_in_mt_": "1006.37",
+    "id": 1464
+  },
+  {
+    "_year": "2017-2018",
+    "month": "September",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6447.27",
+    "availability_in_mt_": "3446.88",
+    "id": 1465
+  },
+  {
+    "_year": "2018-2019",
+    "month": "February",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9487.06",
+    "availability_in_mt_": "5721.91",
+    "id": 1466
+  },
+  {
+    "_year": "2018-2019",
+    "month": "July",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1293.79",
+    "availability_in_mt_": "5705.48",
+    "id": 1467
+  },
+  {
+    "_year": "2018-2019",
+    "month": "July",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1153.78",
+    "availability_in_mt_": "2617.27",
+    "id": 1468
+  },
+  {
+    "_year": "2017-2018",
+    "month": "February",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "610.04",
+    "availability_in_mt_": "1127.25",
+    "id": 1469
+  },
+  {
+    "_year": "2017-2018",
+    "month": "July",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "900.02",
+    "availability_in_mt_": "9679.30",
+    "id": 1470
+  },
+  {
+    "_year": "2019-2020",
+    "month": "August",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1258.20",
+    "availability_in_mt_": "6153.98",
+    "id": 1471
+  },
+  {
+    "_year": "2019-2020",
+    "month": "July",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8751.69",
+    "availability_in_mt_": "1560.47",
+    "id": 1472
+  },
+  {
+    "_year": "2016-2017",
+    "month": "May",
+    "product": "Urea",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1453.14",
+    "availability_in_mt_": "3718.76",
+    "id": 1473
+  },
+  {
+    "_year": "2019-2020",
+    "month": "October",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1035.60",
+    "availability_in_mt_": "6117.76",
+    "id": 1474
+  },
+  {
+    "_year": "2015-2016",
+    "month": "May",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "7924.09",
+    "availability_in_mt_": "9346.45",
+    "id": 1475
+  },
+  {
+    "_year": "2018-2019",
+    "month": "April",
+    "product": "SSP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "9080.16",
+    "availability_in_mt_": "5114.94",
+    "id": 1476
+  },
+  {
+    "_year": "2019-2020",
+    "month": "March",
+    "product": "MAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "5352.70",
+    "availability_in_mt_": "9941.84",
+    "id": 1477
+  },
+  {
+    "_year": "2019-2020",
+    "month": "September",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "8309.11",
+    "availability_in_mt_": "2210.44",
+    "id": 1478
+  },
+  {
+    "_year": "2016-2017",
+    "month": "March",
+    "product": "DAP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "6022.30",
+    "availability_in_mt_": "4089.78",
+    "id": 1479
+  },
+  {
+    "_year": "2019-2020",
+    "month": "July",
+    "product": "MOP",
+    "state": "Rajasthan",
+    "requirement_in_mt_": "1336.54",
+    "availability_in_mt_": "7443.00",
+    "id": 1480
+  }
+
 ]
